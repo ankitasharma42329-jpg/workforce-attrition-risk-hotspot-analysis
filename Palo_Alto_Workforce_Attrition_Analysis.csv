@@ -1,0 +1,1501 @@
+Employee_ID,Department,Location,Job_Level,Age,Years_At_Company,Monthly_Income,Job_Satisfaction,Work_Life_Balance,Overtime,Remote_Work,Attrition,Risk_Score,Risk_Level
+1001,HR,Remote,Senior,57,10,37435,5,5,Yes,Yes,Yes,25,Low Risk
+1002,Finance,Texas,Mid,58,10,97084,2,5,Yes,No,Yes,50,Medium Risk
+1003,Marketing,Virginia,Mid,22,15,154023,1,2,No,Yes,Yes,40,Medium Risk
+1004,Finance,New York,Entry,56,0,100601,4,2,Yes,Yes,Yes,60,Medium Risk
+1005,Finance,Washington,Entry,46,11,118416,4,4,No,No,No,5,Low Risk
+1006,Sales,Virginia,Senior,31,9,150871,1,1,No,No,No,45,Medium Risk
+1007,Marketing,New York,Mid,28,8,148645,3,2,Yes,Yes,No,45,Medium Risk
+1008,Marketing,New York,Mid,42,6,33407,3,3,No,No,No,5,Low Risk
+1009,Marketing,California,Senior,40,3,128943,2,1,Yes,No,Yes,70,High Risk
+1010,Finance,Washington,Senior,28,11,62940,4,3,No,No,No,5,Low Risk
+1011,HR,California,Entry,49,5,35666,3,5,Yes,No,No,30,Low Risk
+1012,Marketing,Texas,Mid,46,13,67122,3,1,No,No,No,25,Low Risk
+1013,Customer Support,California,Entry,50,15,148647,4,4,No,No,No,5,Low Risk
+1014,Finance,California,Senior,37,1,55092,5,5,Yes,Yes,Yes,40,Medium Risk
+1015,Sales,Virginia,Senior,40,6,159753,3,5,Yes,No,No,30,Low Risk
+1016,HR,Remote,Manager,36,1,153402,1,3,No,No,Yes,40,Medium Risk
+1017,Customer Support,New York,Entry,27,9,105645,2,5,Yes,Yes,No,45,Medium Risk
+1018,Customer Support,Washington,Entry,36,7,131190,3,2,No,Yes,No,20,Low Risk
+1019,Sales,California,Entry,47,7,130468,3,1,No,Yes,No,20,Low Risk
+1020,HR,Washington,Entry,43,0,159207,5,2,No,No,No,40,Medium Risk
+1021,Finance,Remote,Entry,44,12,56505,1,3,No,No,No,25,Low Risk
+1022,Engineering,Remote,Manager,29,7,66713,2,3,No,No,No,25,Low Risk
+1023,HR,California,Entry,55,1,84387,3,1,No,Yes,Yes,35,Medium Risk
+1024,Sales,Texas,Entry,40,5,73169,2,5,No,No,No,25,Low Risk
+1025,Customer Support,California,Senior,57,12,103282,4,4,Yes,No,No,30,Low Risk
+1026,Finance,Virginia,Mid,37,0,107511,3,3,Yes,Yes,No,40,Medium Risk
+1027,HR,New York,Senior,51,4,81742,3,1,No,No,No,25,Low Risk
+1028,Engineering,Texas,Entry,28,10,70522,4,4,No,No,No,5,Low Risk
+1029,Engineering,California,Mid,35,6,111132,5,5,No,No,No,5,Low Risk
+1030,Marketing,Washington,Entry,51,12,149622,3,3,Yes,No,No,30,Low Risk
+1031,Marketing,Texas,Entry,50,9,148764,2,1,No,No,No,45,Medium Risk
+1032,Sales,Texas,Manager,40,0,133489,1,1,Yes,Yes,Yes,80,High Risk
+1033,HR,California,Entry,59,14,129397,2,1,Yes,No,Yes,70,High Risk
+1034,HR,Texas,Mid,32,1,33880,5,3,No,Yes,No,15,Low Risk
+1035,Customer Support,Washington,Mid,37,6,73454,1,4,Yes,Yes,No,45,Medium Risk
+1036,Customer Support,Remote,Mid,50,5,85711,2,1,No,Yes,No,40,Medium Risk
+1037,Customer Support,Texas,Senior,49,2,73539,2,5,No,No,Yes,40,Medium Risk
+1038,Marketing,Remote,Entry,39,13,138984,4,1,No,Yes,No,20,Low Risk
+1039,HR,Washington,Senior,31,9,98321,5,4,No,Yes,No,0,Low Risk
+1040,HR,California,Manager,54,1,117985,4,3,Yes,Yes,Yes,40,Medium Risk
+1041,Engineering,New York,Mid,27,9,44799,1,1,Yes,No,Yes,70,High Risk
+1042,Marketing,Texas,Manager,54,3,144584,4,1,No,No,No,25,Low Risk
+1043,Finance,New York,Entry,40,2,134843,5,5,No,No,No,20,Low Risk
+1044,Marketing,Washington,Mid,58,6,90102,3,5,No,No,Yes,5,Low Risk
+1045,Finance,Texas,Entry,44,7,80726,3,1,Yes,No,Yes,50,Medium Risk
+1046,Engineering,Remote,Senior,30,1,78784,1,1,No,Yes,No,55,Medium Risk
+1047,Sales,Virginia,Manager,52,9,150364,3,5,No,No,No,5,Low Risk
+1048,HR,New York,Entry,35,6,143034,4,4,No,Yes,No,0,Low Risk
+1049,Engineering,Texas,Senior,57,7,73333,1,2,No,Yes,Yes,40,Medium Risk
+1050,HR,New York,Entry,40,5,70828,5,2,Yes,Yes,Yes,45,Medium Risk
+1051,Customer Support,Texas,Mid,23,5,99526,1,1,Yes,No,Yes,70,High Risk
+1052,Sales,California,Mid,57,9,84362,1,5,No,No,No,25,Low Risk
+1053,Sales,Remote,Manager,28,0,83997,2,3,No,No,No,40,Medium Risk
+1054,Engineering,New York,Mid,43,3,153973,2,3,Yes,Yes,No,45,Medium Risk
+1055,Sales,Virginia,Mid,31,13,80341,1,2,No,No,Yes,45,Medium Risk
+1056,Finance,Virginia,Entry,28,0,49073,3,4,Yes,Yes,Yes,40,Medium Risk
+1057,Sales,Washington,Entry,49,3,132399,2,2,Yes,Yes,Yes,65,High Risk
+1058,HR,Texas,Entry,50,1,44549,5,1,Yes,Yes,Yes,60,Medium Risk
+1059,HR,New York,Entry,30,10,113795,4,4,Yes,No,No,30,Low Risk
+1060,HR,Washington,Senior,59,12,86920,2,3,No,Yes,No,20,Low Risk
+1061,HR,New York,Mid,48,4,115326,1,5,No,No,No,25,Low Risk
+1062,Finance,Texas,Mid,56,9,105515,3,5,Yes,No,No,30,Low Risk
+1063,Marketing,Virginia,Entry,33,13,159392,4,1,Yes,No,Yes,50,Medium Risk
+1064,Customer Support,California,Senior,52,8,50316,2,2,No,No,No,45,Medium Risk
+1065,Engineering,Virginia,Senior,56,10,56183,3,1,Yes,Yes,Yes,45,Medium Risk
+1066,HR,Washington,Entry,57,14,123860,3,5,No,Yes,No,0,Low Risk
+1067,Sales,Remote,Senior,46,11,54624,3,3,Yes,No,Yes,30,Low Risk
+1068,HR,California,Mid,42,9,92515,1,5,No,No,No,25,Low Risk
+1069,Sales,Washington,Entry,24,2,133712,5,4,Yes,No,No,45,Medium Risk
+1070,Customer Support,Texas,Mid,51,7,115781,3,5,Yes,No,No,30,Low Risk
+1071,Customer Support,California,Mid,38,2,76705,4,5,Yes,Yes,No,40,Medium Risk
+1072,Customer Support,Washington,Entry,58,5,119326,2,4,Yes,Yes,Yes,45,Medium Risk
+1073,Sales,Texas,Manager,44,15,56756,4,2,No,No,No,25,Low Risk
+1074,HR,Virginia,Senior,43,3,90390,1,5,No,Yes,No,20,Low Risk
+1075,Customer Support,Remote,Senior,42,7,98369,1,1,Yes,Yes,Yes,65,High Risk
+1076,Finance,Texas,Mid,22,10,100821,4,5,Yes,No,Yes,30,Low Risk
+1077,Sales,New York,Mid,51,5,39589,5,1,No,Yes,No,20,Low Risk
+1078,Sales,Texas,Senior,31,7,143012,1,4,No,No,No,25,Low Risk
+1079,HR,Texas,Mid,48,0,44116,1,5,No,No,No,40,Medium Risk
+1080,Sales,Remote,Entry,52,5,103181,4,4,No,No,No,5,Low Risk
+1081,Sales,New York,Mid,25,0,74786,1,4,No,Yes,Yes,35,Medium Risk
+1082,Customer Support,Washington,Senior,58,0,124686,5,2,No,Yes,No,35,Medium Risk
+1083,HR,Washington,Mid,30,7,153711,5,5,No,No,No,5,Low Risk
+1084,Customer Support,Texas,Entry,44,15,106425,5,1,No,Yes,No,20,Low Risk
+1085,Customer Support,New York,Senior,55,14,60286,2,1,Yes,Yes,Yes,65,High Risk
+1086,HR,New York,Entry,43,6,133081,5,5,Yes,Yes,No,25,Low Risk
+1087,Engineering,Remote,Entry,37,2,45994,5,2,Yes,Yes,Yes,60,Medium Risk
+1088,Customer Support,Virginia,Entry,21,5,131039,2,2,No,Yes,Yes,40,Medium Risk
+1089,Finance,Washington,Mid,51,14,141915,3,2,No,No,Yes,25,Low Risk
+1090,Finance,Remote,Senior,51,8,152961,1,1,No,Yes,Yes,40,Medium Risk
+1091,Sales,California,Mid,54,6,120198,5,4,Yes,Yes,No,25,Low Risk
+1092,Finance,Washington,Entry,29,11,134672,1,2,No,No,Yes,45,Medium Risk
+1093,Sales,Remote,Senior,42,2,56639,4,1,No,No,Yes,40,Medium Risk
+1094,Engineering,Washington,Senior,33,13,47205,1,1,Yes,Yes,Yes,65,High Risk
+1095,HR,Virginia,Senior,45,13,86677,2,4,No,Yes,No,20,Low Risk
+1096,HR,California,Entry,38,12,62930,1,5,No,No,No,25,Low Risk
+1097,HR,Virginia,Mid,32,5,103313,1,5,No,No,No,25,Low Risk
+1098,Finance,California,Manager,37,10,123851,1,2,No,No,Yes,45,Medium Risk
+1099,Engineering,Texas,Senior,35,3,143153,3,2,No,No,No,25,Low Risk
+1100,Finance,Remote,Entry,35,13,122509,3,4,No,Yes,No,0,Low Risk
+1101,Finance,California,Entry,35,12,48316,4,2,No,No,No,25,Low Risk
+1102,Engineering,Virginia,Mid,59,2,57304,2,4,No,Yes,No,35,Medium Risk
+1103,Engineering,Washington,Manager,33,8,131839,1,1,Yes,No,Yes,70,High Risk
+1104,Engineering,California,Mid,37,9,126058,1,2,No,No,Yes,45,Medium Risk
+1105,Engineering,Remote,Mid,52,1,117876,1,1,Yes,No,Yes,85,High Risk
+1106,HR,California,Entry,29,0,115366,1,3,No,Yes,No,35,Medium Risk
+1107,Marketing,New York,Senior,40,14,43403,3,4,No,Yes,No,0,Low Risk
+1108,Marketing,Washington,Senior,46,13,110052,4,3,No,No,No,5,Low Risk
+1109,Engineering,Remote,Mid,47,15,147478,5,2,No,No,No,25,Low Risk
+1110,Marketing,Remote,Senior,41,1,114627,2,1,Yes,No,Yes,85,High Risk
+1111,Marketing,Texas,Manager,38,6,103495,1,2,No,Yes,No,40,Medium Risk
+1112,Engineering,Virginia,Entry,33,9,61932,4,3,Yes,Yes,No,25,Low Risk
+1113,Marketing,Texas,Mid,36,0,126090,5,2,Yes,No,Yes,65,High Risk
+1114,Finance,Remote,Entry,29,5,66701,4,5,No,Yes,No,0,Low Risk
+1115,Sales,Washington,Senior,32,13,33385,3,3,Yes,No,No,30,Low Risk
+1116,Sales,California,Mid,58,6,151324,5,2,No,No,No,25,Low Risk
+1117,Engineering,California,Mid,39,8,129226,4,1,No,No,No,25,Low Risk
+1118,HR,Washington,Senior,27,14,87241,3,2,No,No,No,25,Low Risk
+1119,Engineering,Remote,Mid,55,13,40367,4,1,No,No,No,25,Low Risk
+1120,HR,California,Manager,38,7,95030,4,5,Yes,Yes,No,25,Low Risk
+1121,Sales,California,Mid,36,5,76505,5,2,Yes,No,Yes,50,Medium Risk
+1122,Engineering,California,Entry,59,2,154462,3,5,No,Yes,No,15,Low Risk
+1123,Customer Support,Virginia,Senior,24,7,63332,1,3,No,No,No,25,Low Risk
+1124,Finance,Virginia,Senior,45,6,115178,2,1,No,Yes,No,40,Medium Risk
+1125,Marketing,New York,Mid,52,2,106325,5,3,No,No,No,20,Low Risk
+1126,HR,Texas,Senior,33,8,65268,3,1,Yes,Yes,Yes,45,Medium Risk
+1127,Customer Support,Washington,Manager,37,11,116486,4,5,No,Yes,No,0,Low Risk
+1128,Marketing,Washington,Entry,57,1,55563,3,4,No,No,No,20,Low Risk
+1129,Marketing,Washington,Manager,26,2,135185,2,2,Yes,Yes,Yes,80,High Risk
+1130,Engineering,New York,Entry,39,1,66404,2,5,Yes,No,Yes,65,High Risk
+1131,Marketing,Virginia,Entry,33,12,85182,1,1,Yes,No,Yes,70,High Risk
+1132,Finance,Remote,Entry,46,0,62991,1,1,Yes,Yes,Yes,80,High Risk
+1133,Customer Support,Remote,Senior,34,3,134601,2,1,No,No,Yes,45,Medium Risk
+1134,Marketing,New York,Senior,51,4,77663,5,1,Yes,Yes,Yes,45,Medium Risk
+1135,Engineering,Remote,Entry,24,12,95886,5,2,Yes,Yes,No,45,Medium Risk
+1136,Finance,Washington,Mid,59,5,152002,4,3,Yes,Yes,No,25,Low Risk
+1137,Sales,Texas,Mid,28,4,113848,1,4,No,No,No,25,Low Risk
+1138,Customer Support,California,Entry,45,0,54127,4,2,No,Yes,No,35,Medium Risk
+1139,Marketing,Virginia,Senior,33,2,87692,1,1,Yes,No,Yes,85,High Risk
+1140,Engineering,Virginia,Senior,52,0,124389,2,2,Yes,No,Yes,85,High Risk
+1141,Sales,New York,Mid,58,10,67500,5,5,Yes,No,Yes,30,Low Risk
+1142,Sales,Virginia,Manager,58,4,63785,5,1,No,Yes,No,20,Low Risk
+1143,HR,Washington,Mid,48,4,114146,2,4,Yes,No,Yes,50,Medium Risk
+1144,Finance,Remote,Manager,50,15,119126,4,1,No,No,No,25,Low Risk
+1145,Marketing,Washington,Senior,23,11,124979,4,4,No,No,No,5,Low Risk
+1146,Engineering,New York,Mid,48,10,77997,3,4,No,No,No,5,Low Risk
+1147,HR,Washington,Entry,23,12,37170,1,3,Yes,No,Yes,50,Medium Risk
+1148,Finance,Remote,Senior,54,5,43303,4,3,No,Yes,No,0,Low Risk
+1149,HR,Texas,Mid,36,7,101743,2,2,No,No,No,45,Medium Risk
+1150,Customer Support,New York,Entry,42,9,107852,4,2,Yes,Yes,No,45,Medium Risk
+1151,Finance,Texas,Entry,52,15,65187,5,4,No,Yes,No,0,Low Risk
+1152,Finance,California,Mid,58,11,95034,1,1,Yes,No,Yes,70,High Risk
+1153,Marketing,Texas,Mid,28,0,101776,3,5,Yes,Yes,No,40,Medium Risk
+1154,Finance,California,Senior,28,3,31893,1,5,Yes,Yes,No,45,Medium Risk
+1155,HR,California,Senior,26,9,43753,5,1,No,No,No,25,Low Risk
+1156,Finance,Texas,Entry,34,15,68090,5,1,No,Yes,No,20,Low Risk
+1157,Marketing,New York,Senior,52,10,94922,5,3,No,No,Yes,5,Low Risk
+1158,Marketing,Remote,Entry,55,0,106768,5,5,Yes,No,No,45,Medium Risk
+1159,Customer Support,Washington,Senior,30,8,89412,2,4,No,No,No,25,Low Risk
+1160,HR,Washington,Senior,23,10,152406,3,2,Yes,No,Yes,50,Medium Risk
+1161,Sales,Remote,Mid,32,6,86030,5,3,No,Yes,No,0,Low Risk
+1162,Sales,California,Senior,51,6,47509,5,5,Yes,Yes,No,25,Low Risk
+1163,Finance,California,Mid,49,11,98653,4,1,Yes,Yes,Yes,45,Medium Risk
+1164,Customer Support,New York,Mid,25,4,66929,3,5,No,Yes,No,0,Low Risk
+1165,Engineering,Virginia,Senior,45,6,159626,1,4,Yes,No,Yes,50,Medium Risk
+1166,Finance,Texas,Mid,51,11,78291,3,3,No,No,No,5,Low Risk
+1167,Customer Support,California,Mid,41,14,34042,3,1,No,Yes,No,20,Low Risk
+1168,HR,Washington,Mid,40,1,92574,3,4,No,Yes,No,15,Low Risk
+1169,HR,New York,Senior,59,13,67201,5,2,No,Yes,Yes,20,Low Risk
+1170,HR,Texas,Mid,42,12,122282,5,3,No,Yes,No,0,Low Risk
+1171,HR,New York,Entry,24,3,44016,2,4,Yes,No,No,50,Medium Risk
+1172,HR,Texas,Senior,33,13,55022,1,4,No,Yes,No,20,Low Risk
+1173,Customer Support,Texas,Senior,40,13,130962,4,1,No,No,Yes,25,Low Risk
+1174,Customer Support,Remote,Entry,33,15,57938,3,2,Yes,Yes,Yes,45,Medium Risk
+1175,Marketing,California,Entry,37,6,73678,1,4,Yes,Yes,Yes,45,Medium Risk
+1176,Sales,New York,Entry,56,15,148171,1,3,No,No,No,25,Low Risk
+1177,HR,New York,Mid,53,2,159638,2,4,No,No,No,40,Medium Risk
+1178,Engineering,Remote,Mid,21,1,131248,4,5,No,No,No,20,Low Risk
+1179,Customer Support,Washington,Senior,35,9,91720,3,3,Yes,No,No,30,Low Risk
+1180,Engineering,Washington,Senior,33,1,135514,4,3,No,Yes,No,15,Low Risk
+1181,Engineering,California,Mid,37,12,86805,2,4,Yes,Yes,Yes,45,Medium Risk
+1182,Engineering,California,Mid,44,0,104323,5,1,No,No,No,40,Medium Risk
+1183,Marketing,Virginia,Senior,28,4,31986,1,3,No,No,No,25,Low Risk
+1184,Customer Support,Remote,Mid,47,11,106478,3,5,Yes,No,No,30,Low Risk
+1185,Engineering,Washington,Manager,43,5,112994,5,1,No,Yes,No,20,Low Risk
+1186,HR,Texas,Mid,28,5,42161,2,1,No,No,Yes,45,Medium Risk
+1187,Finance,New York,Entry,28,15,50689,4,1,No,Yes,Yes,20,Low Risk
+1188,Engineering,California,Senior,46,8,157101,1,3,No,No,No,25,Low Risk
+1189,Marketing,New York,Mid,33,3,124699,3,1,No,No,No,25,Low Risk
+1190,Customer Support,New York,Senior,59,0,90924,5,4,No,Yes,No,15,Low Risk
+1191,Marketing,Virginia,Entry,57,5,131311,5,1,Yes,No,No,50,Medium Risk
+1192,Engineering,Washington,Entry,48,14,129273,1,5,Yes,Yes,Yes,45,Medium Risk
+1193,Customer Support,California,Senior,45,4,104308,4,2,Yes,No,Yes,50,Medium Risk
+1194,Finance,New York,Entry,36,9,131128,2,5,No,Yes,Yes,20,Low Risk
+1195,Engineering,California,Senior,22,5,93745,4,3,No,No,No,5,Low Risk
+1196,Marketing,Texas,Entry,38,2,156881,4,1,Yes,Yes,Yes,60,Medium Risk
+1197,Sales,Virginia,Mid,37,1,31211,4,1,No,No,No,40,Medium Risk
+1198,HR,Texas,Senior,50,5,30229,1,4,No,No,No,25,Low Risk
+1199,Marketing,California,Mid,59,12,148972,1,1,No,No,Yes,45,Medium Risk
+1200,Customer Support,California,Mid,33,0,78542,2,5,No,Yes,No,35,Medium Risk
+1201,Engineering,Washington,Entry,52,6,44345,4,3,No,No,No,5,Low Risk
+1202,HR,New York,Entry,49,6,131489,1,2,Yes,Yes,Yes,65,High Risk
+1203,Engineering,New York,Mid,50,9,61819,2,1,Yes,No,No,70,High Risk
+1204,Customer Support,Texas,Senior,38,12,77779,2,2,No,Yes,Yes,40,Medium Risk
+1205,Engineering,Virginia,Manager,33,6,112421,4,1,Yes,No,No,50,Medium Risk
+1206,Sales,Remote,Senior,41,14,122244,3,3,Yes,Yes,Yes,25,Low Risk
+1207,HR,New York,Senior,50,11,95584,4,5,No,Yes,No,0,Low Risk
+1208,HR,Washington,Senior,41,10,49950,3,3,Yes,Yes,No,25,Low Risk
+1209,Customer Support,Texas,Senior,37,9,45173,2,2,No,Yes,No,40,Medium Risk
+1210,Sales,Texas,Entry,39,0,147743,1,1,Yes,Yes,Yes,80,High Risk
+1211,Marketing,Remote,Manager,35,14,88032,5,2,No,No,No,25,Low Risk
+1212,Engineering,Washington,Senior,29,3,145074,2,5,Yes,No,No,50,Medium Risk
+1213,Finance,Virginia,Mid,30,12,129273,1,3,Yes,No,Yes,50,Medium Risk
+1214,Engineering,Washington,Entry,51,6,58036,2,2,No,No,Yes,45,Medium Risk
+1215,Engineering,Virginia,Mid,43,15,153885,4,2,No,Yes,Yes,20,Low Risk
+1216,Marketing,Washington,Mid,50,10,142857,3,5,No,No,No,5,Low Risk
+1217,Engineering,Washington,Senior,53,8,101356,2,1,No,Yes,Yes,40,Medium Risk
+1218,Sales,California,Mid,29,4,44292,1,2,Yes,No,Yes,70,High Risk
+1219,Sales,Texas,Mid,21,12,33052,4,5,No,Yes,No,0,Low Risk
+1220,HR,Washington,Manager,55,1,74377,5,1,No,Yes,Yes,35,Medium Risk
+1221,Customer Support,Remote,Entry,31,6,119317,4,1,No,Yes,No,20,Low Risk
+1222,Finance,Washington,Mid,54,9,97838,3,3,Yes,No,No,30,Low Risk
+1223,Engineering,New York,Entry,36,0,97819,4,5,No,Yes,No,15,Low Risk
+1224,Engineering,Texas,Senior,29,15,143689,5,1,No,No,No,25,Low Risk
+1225,Marketing,New York,Manager,52,6,138103,1,3,Yes,Yes,Yes,45,Medium Risk
+1226,Customer Support,Texas,Entry,35,5,45620,2,4,No,No,No,25,Low Risk
+1227,Sales,New York,Senior,32,6,60461,3,5,Yes,No,Yes,30,Low Risk
+1228,Finance,Washington,Entry,53,15,50750,5,4,No,Yes,No,0,Low Risk
+1229,HR,Washington,Manager,34,13,128426,3,1,No,No,Yes,25,Low Risk
+1230,Sales,California,Senior,28,12,118719,4,5,No,No,No,5,Low Risk
+1231,Customer Support,Remote,Senior,28,9,39472,3,3,No,No,No,5,Low Risk
+1232,HR,New York,Entry,47,2,99263,5,1,Yes,No,No,65,High Risk
+1233,Marketing,Virginia,Manager,32,14,142036,2,5,No,No,No,25,Low Risk
+1234,Marketing,California,Senior,21,2,87602,2,5,No,No,Yes,40,Medium Risk
+1235,Engineering,New York,Mid,31,6,55523,3,4,Yes,Yes,No,25,Low Risk
+1236,Customer Support,New York,Senior,59,12,60766,1,1,No,No,No,45,Medium Risk
+1237,Finance,California,Entry,51,1,133262,3,3,No,Yes,No,15,Low Risk
+1238,HR,Washington,Senior,37,0,96060,4,3,Yes,Yes,No,40,Medium Risk
+1239,Sales,New York,Entry,53,8,39079,2,1,Yes,No,Yes,70,High Risk
+1240,Customer Support,Washington,Senior,52,8,38399,2,1,Yes,Yes,Yes,65,High Risk
+1241,Customer Support,California,Mid,49,6,90726,2,2,No,Yes,Yes,40,Medium Risk
+1242,Marketing,Washington,Entry,41,6,122906,1,4,No,No,No,25,Low Risk
+1243,Engineering,Texas,Entry,41,2,46532,1,1,No,No,No,60,Medium Risk
+1244,Engineering,Virginia,Entry,43,9,152689,5,1,No,No,No,25,Low Risk
+1245,HR,New York,Mid,26,15,112357,3,2,No,No,Yes,25,Low Risk
+1246,Marketing,Remote,Mid,42,14,73162,3,2,No,No,Yes,25,Low Risk
+1247,Customer Support,Virginia,Mid,58,1,33749,4,5,Yes,Yes,Yes,40,Medium Risk
+1248,Finance,Washington,Entry,57,10,41353,2,3,No,Yes,No,20,Low Risk
+1249,Marketing,New York,Entry,28,6,142313,1,4,No,No,No,25,Low Risk
+1250,HR,Washington,Senior,55,8,58477,4,5,No,Yes,No,0,Low Risk
+1251,HR,Texas,Entry,31,0,54570,4,1,No,No,No,40,Medium Risk
+1252,Marketing,California,Manager,44,12,116373,1,2,No,No,Yes,45,Medium Risk
+1253,HR,New York,Senior,41,13,41437,3,3,No,Yes,Yes,0,Low Risk
+1254,Marketing,Texas,Senior,22,3,68104,2,5,Yes,No,No,50,Medium Risk
+1255,Sales,Texas,Mid,39,15,93370,3,3,No,No,No,5,Low Risk
+1256,Marketing,New York,Senior,59,5,34551,4,2,Yes,No,Yes,50,Medium Risk
+1257,Marketing,Washington,Entry,48,6,98359,2,5,No,No,No,25,Low Risk
+1258,HR,Remote,Entry,37,9,84880,5,5,Yes,No,Yes,30,Low Risk
+1259,HR,Texas,Entry,26,6,42916,4,3,Yes,Yes,No,25,Low Risk
+1260,Engineering,Virginia,Senior,39,9,156150,3,2,Yes,No,No,50,Medium Risk
+1261,Engineering,Texas,Entry,58,1,110703,3,1,No,No,No,40,Medium Risk
+1262,Sales,Remote,Mid,48,13,71445,3,5,Yes,No,Yes,30,Low Risk
+1263,Engineering,Washington,Manager,22,3,77636,1,1,No,No,No,45,Medium Risk
+1264,Marketing,Washington,Senior,58,4,103927,4,2,No,No,No,25,Low Risk
+1265,HR,Virginia,Mid,57,13,108194,2,5,Yes,Yes,Yes,45,Medium Risk
+1266,Engineering,Texas,Entry,24,11,59685,3,5,Yes,No,No,30,Low Risk
+1267,Engineering,Washington,Senior,42,0,81134,3,1,No,No,No,40,Medium Risk
+1268,Sales,Remote,Mid,46,0,118916,1,4,No,Yes,No,35,Medium Risk
+1269,Customer Support,New York,Entry,56,9,137967,2,1,No,Yes,No,40,Medium Risk
+1270,Sales,California,Entry,33,2,124455,4,1,No,No,No,40,Medium Risk
+1271,Marketing,California,Manager,52,14,157763,5,4,Yes,No,No,30,Low Risk
+1272,HR,California,Senior,37,14,97847,1,2,Yes,No,Yes,70,High Risk
+1273,Sales,Texas,Senior,56,9,69993,4,2,Yes,No,Yes,50,Medium Risk
+1274,Engineering,Virginia,Senior,39,2,74333,5,5,No,No,No,20,Low Risk
+1275,HR,Washington,Mid,55,15,138574,3,3,No,No,No,5,Low Risk
+1276,HR,New York,Mid,48,11,88865,3,3,No,No,No,5,Low Risk
+1277,Engineering,Remote,Mid,21,7,109096,2,5,Yes,Yes,No,45,Medium Risk
+1278,Sales,New York,Mid,38,15,79756,5,3,Yes,No,No,30,Low Risk
+1279,Engineering,Remote,Mid,53,8,152863,3,1,Yes,No,No,50,Medium Risk
+1280,Customer Support,Texas,Senior,32,15,91192,3,1,No,No,Yes,25,Low Risk
+1281,HR,California,Mid,28,14,90686,2,4,Yes,No,Yes,50,Medium Risk
+1282,Finance,Texas,Senior,44,13,78733,4,4,No,No,No,5,Low Risk
+1283,Finance,Virginia,Mid,36,10,134089,3,5,No,Yes,No,0,Low Risk
+1284,Marketing,Virginia,Mid,24,11,55993,1,5,No,Yes,Yes,20,Low Risk
+1285,Engineering,Remote,Mid,58,0,60492,1,5,No,Yes,No,35,Medium Risk
+1286,Engineering,Washington,Mid,47,15,50981,4,1,No,Yes,No,20,Low Risk
+1287,Marketing,Washington,Senior,29,13,54143,5,3,No,No,No,5,Low Risk
+1288,Marketing,Remote,Entry,36,10,107603,2,5,No,Yes,Yes,20,Low Risk
+1289,Marketing,Virginia,Mid,32,1,119452,1,5,No,Yes,Yes,35,Medium Risk
+1290,HR,Virginia,Entry,51,9,90277,1,1,No,No,No,45,Medium Risk
+1291,Customer Support,Virginia,Mid,44,1,137044,4,1,No,No,No,40,Medium Risk
+1292,Engineering,Texas,Mid,34,14,141957,5,1,No,Yes,No,20,Low Risk
+1293,HR,Virginia,Senior,45,3,79990,5,3,No,No,No,5,Low Risk
+1294,Marketing,New York,Manager,54,1,158406,4,5,No,No,No,20,Low Risk
+1295,Engineering,California,Mid,23,6,92888,1,2,No,Yes,No,40,Medium Risk
+1296,HR,Virginia,Senior,44,12,99351,2,2,Yes,Yes,Yes,65,High Risk
+1297,Customer Support,Remote,Mid,29,14,127372,1,5,Yes,No,No,50,Medium Risk
+1298,HR,California,Mid,46,8,79999,5,5,No,No,Yes,5,Low Risk
+1299,Customer Support,Texas,Entry,40,6,133013,1,5,No,No,No,25,Low Risk
+1300,Marketing,Remote,Entry,30,11,132811,2,5,No,Yes,Yes,20,Low Risk
+1301,Customer Support,California,Mid,39,5,134879,3,3,No,Yes,No,0,Low Risk
+1302,Engineering,Remote,Mid,23,15,100309,1,2,No,No,No,45,Medium Risk
+1303,Marketing,Texas,Entry,44,14,42446,4,4,No,Yes,No,0,Low Risk
+1304,Engineering,New York,Entry,25,9,60733,3,2,Yes,Yes,No,45,Medium Risk
+1305,Finance,Texas,Entry,23,0,149156,4,2,No,No,No,40,Medium Risk
+1306,Sales,Texas,Manager,47,10,106000,4,1,No,Yes,Yes,20,Low Risk
+1307,Customer Support,Remote,Mid,36,9,78632,4,5,Yes,No,No,30,Low Risk
+1308,Sales,Washington,Mid,35,8,51576,1,5,No,No,No,25,Low Risk
+1309,Sales,Virginia,Entry,55,4,33320,5,5,No,Yes,No,0,Low Risk
+1310,Customer Support,Virginia,Mid,32,15,40750,3,1,Yes,No,Yes,50,Medium Risk
+1311,Marketing,New York,Entry,46,10,133002,2,3,Yes,Yes,Yes,45,Medium Risk
+1312,Finance,New York,Entry,54,4,83463,5,3,No,No,No,5,Low Risk
+1313,Engineering,Virginia,Mid,43,5,56572,1,4,No,Yes,No,20,Low Risk
+1314,HR,Washington,Entry,51,8,148361,4,3,Yes,Yes,No,25,Low Risk
+1315,Engineering,Virginia,Entry,40,12,47948,2,3,Yes,No,Yes,50,Medium Risk
+1316,HR,Washington,Entry,32,7,156898,3,5,No,No,No,5,Low Risk
+1317,Engineering,New York,Entry,43,7,146528,5,2,No,No,No,25,Low Risk
+1318,Customer Support,California,Entry,24,13,68826,5,3,No,Yes,No,0,Low Risk
+1319,Finance,Remote,Mid,43,7,119051,2,3,Yes,Yes,Yes,45,Medium Risk
+1320,HR,New York,Senior,21,0,57867,1,1,No,No,Yes,60,Medium Risk
+1321,Marketing,New York,Mid,45,0,90231,3,4,No,No,No,20,Low Risk
+1322,Engineering,Texas,Mid,22,7,96262,2,1,Yes,Yes,Yes,65,High Risk
+1323,Engineering,Texas,Entry,50,4,121356,4,5,No,No,No,5,Low Risk
+1324,HR,Texas,Manager,23,8,156340,3,2,No,No,No,25,Low Risk
+1325,Marketing,Remote,Mid,41,1,102233,5,4,No,No,No,20,Low Risk
+1326,Marketing,Texas,Entry,45,15,74678,2,1,No,No,No,45,Medium Risk
+1327,Customer Support,Washington,Mid,40,8,137561,5,3,Yes,Yes,Yes,25,Low Risk
+1328,Customer Support,Virginia,Entry,42,11,42963,5,3,No,No,No,5,Low Risk
+1329,Customer Support,California,Mid,41,13,94360,5,4,No,Yes,No,0,Low Risk
+1330,Customer Support,New York,Mid,53,7,79434,1,3,No,No,No,25,Low Risk
+1331,Customer Support,Washington,Senior,58,8,96617,5,1,Yes,No,Yes,50,Medium Risk
+1332,Customer Support,California,Mid,35,3,50269,4,1,No,No,No,25,Low Risk
+1333,Finance,Washington,Senior,35,0,147569,4,3,Yes,No,Yes,45,Medium Risk
+1334,Marketing,Washington,Manager,45,0,106312,3,3,No,No,No,20,Low Risk
+1335,Customer Support,New York,Entry,41,4,127352,5,5,Yes,No,No,30,Low Risk
+1336,Marketing,Virginia,Entry,44,1,109732,5,2,No,No,No,40,Medium Risk
+1337,Marketing,Texas,Mid,25,15,147658,2,4,Yes,No,No,50,Medium Risk
+1338,Sales,Remote,Mid,26,13,137648,1,1,Yes,No,Yes,70,High Risk
+1339,Finance,Virginia,Mid,43,7,111494,3,4,No,Yes,No,0,Low Risk
+1340,Customer Support,Remote,Manager,24,9,118905,5,5,No,Yes,No,0,Low Risk
+1341,Engineering,New York,Senior,47,10,107225,2,1,No,Yes,Yes,40,Medium Risk
+1342,HR,New York,Mid,38,4,112867,1,5,No,No,Yes,25,Low Risk
+1343,Engineering,New York,Mid,41,4,67528,3,5,Yes,No,Yes,30,Low Risk
+1344,Finance,California,Senior,48,1,154597,3,3,No,No,No,20,Low Risk
+1345,HR,Remote,Manager,55,6,108972,5,4,No,No,No,5,Low Risk
+1346,Finance,Virginia,Senior,42,12,95602,3,4,Yes,No,No,30,Low Risk
+1347,Marketing,Virginia,Entry,43,7,126261,2,3,No,Yes,No,20,Low Risk
+1348,HR,Washington,Mid,23,9,120748,3,4,No,Yes,No,0,Low Risk
+1349,Marketing,Washington,Entry,30,12,153193,4,3,No,Yes,No,0,Low Risk
+1350,Engineering,Washington,Entry,45,0,156277,2,1,No,Yes,Yes,55,Medium Risk
+1351,Engineering,New York,Entry,28,1,63332,1,5,No,No,No,40,Medium Risk
+1352,HR,Virginia,Mid,31,9,154481,1,5,Yes,No,Yes,50,Medium Risk
+1353,HR,Remote,Senior,25,15,120937,5,4,Yes,No,No,30,Low Risk
+1354,Customer Support,New York,Entry,57,3,159529,5,2,No,No,No,25,Low Risk
+1355,Finance,California,Mid,58,4,108929,4,5,Yes,No,No,30,Low Risk
+1356,Customer Support,Washington,Mid,49,12,99206,1,3,Yes,Yes,Yes,45,Medium Risk
+1357,Finance,New York,Mid,25,1,121137,1,2,No,No,Yes,60,Medium Risk
+1358,Customer Support,New York,Entry,29,0,32251,1,2,No,Yes,No,55,Medium Risk
+1359,Marketing,California,Mid,22,8,75717,1,5,Yes,Yes,No,45,Medium Risk
+1360,HR,Texas,Senior,21,13,129108,3,5,No,Yes,No,0,Low Risk
+1361,Engineering,Virginia,Entry,50,0,57027,2,5,No,No,No,40,Medium Risk
+1362,Finance,Remote,Entry,31,12,127382,2,3,Yes,Yes,Yes,45,Medium Risk
+1363,Finance,Texas,Mid,48,14,116551,4,2,No,Yes,No,20,Low Risk
+1364,Engineering,Washington,Manager,32,3,39583,3,4,No,No,No,5,Low Risk
+1365,Customer Support,New York,Senior,59,1,80387,1,3,No,No,No,40,Medium Risk
+1366,Finance,California,Senior,46,10,53104,1,1,No,Yes,Yes,40,Medium Risk
+1367,Marketing,California,Mid,33,3,42224,5,5,Yes,Yes,No,25,Low Risk
+1368,HR,Virginia,Mid,28,7,90624,5,2,No,No,No,25,Low Risk
+1369,Engineering,Texas,Entry,48,7,86058,4,3,No,Yes,No,0,Low Risk
+1370,HR,Virginia,Mid,50,14,134320,1,1,No,No,Yes,45,Medium Risk
+1371,Finance,New York,Manager,29,10,126372,4,3,No,No,No,5,Low Risk
+1372,Finance,Virginia,Mid,59,11,59299,3,3,No,Yes,No,0,Low Risk
+1373,Engineering,Remote,Senior,51,8,108572,2,4,Yes,Yes,No,45,Medium Risk
+1374,Marketing,California,Senior,41,12,115469,1,4,Yes,Yes,Yes,45,Medium Risk
+1375,Sales,California,Entry,54,14,107928,3,3,Yes,Yes,Yes,25,Low Risk
+1376,Engineering,Washington,Manager,51,10,159518,1,1,No,Yes,Yes,40,Medium Risk
+1377,Sales,Washington,Entry,45,14,103474,5,2,Yes,No,No,50,Medium Risk
+1378,Customer Support,New York,Mid,32,11,34141,4,2,No,Yes,No,20,Low Risk
+1379,Sales,Remote,Entry,21,4,53350,5,5,Yes,No,No,30,Low Risk
+1380,Marketing,Texas,Entry,42,6,105082,2,5,No,No,No,25,Low Risk
+1381,Customer Support,Virginia,Mid,57,2,100871,5,2,Yes,Yes,No,60,Medium Risk
+1382,Sales,New York,Entry,21,9,35077,1,3,No,Yes,No,20,Low Risk
+1383,Customer Support,Washington,Mid,21,3,76015,5,3,No,Yes,No,0,Low Risk
+1384,Sales,Virginia,Mid,41,9,101147,1,4,No,Yes,No,20,Low Risk
+1385,Marketing,Washington,Entry,35,8,89180,2,4,No,No,No,25,Low Risk
+1386,Sales,Virginia,Entry,37,9,70857,5,5,No,Yes,No,0,Low Risk
+1387,Sales,Texas,Mid,42,9,131196,4,2,No,No,No,25,Low Risk
+1388,Sales,New York,Mid,58,13,89840,4,3,Yes,Yes,Yes,25,Low Risk
+1389,Engineering,Virginia,Senior,55,11,155463,4,2,Yes,No,Yes,50,Medium Risk
+1390,Engineering,Remote,Senior,36,0,89902,5,1,No,No,Yes,40,Medium Risk
+1391,Engineering,California,Senior,28,1,35577,5,2,No,No,No,40,Medium Risk
+1392,Marketing,Remote,Senior,37,15,50002,5,1,No,Yes,Yes,20,Low Risk
+1393,Customer Support,Remote,Mid,37,4,80711,1,4,Yes,Yes,Yes,45,Medium Risk
+1394,Finance,California,Senior,46,2,69451,2,4,No,No,No,40,Medium Risk
+1395,Sales,Remote,Entry,33,1,129811,4,5,Yes,Yes,Yes,40,Medium Risk
+1396,Sales,Virginia,Mid,37,0,79103,1,2,Yes,Yes,Yes,80,High Risk
+1397,Marketing,Virginia,Senior,58,9,58647,4,2,Yes,No,No,50,Medium Risk
+1398,Sales,Virginia,Mid,37,2,64831,1,1,Yes,No,Yes,85,High Risk
+1399,Engineering,California,Senior,34,0,148330,5,4,Yes,No,No,45,Medium Risk
+1400,Finance,Remote,Senior,26,11,130304,4,1,No,No,Yes,25,Low Risk
+1401,HR,California,Senior,55,0,126498,5,4,Yes,No,No,45,Medium Risk
+1402,Sales,Virginia,Manager,34,11,158949,4,1,No,No,No,25,Low Risk
+1403,Engineering,Remote,Mid,28,0,143870,3,4,Yes,No,No,45,Medium Risk
+1404,HR,Remote,Mid,35,7,125119,1,1,No,No,Yes,45,Medium Risk
+1405,Finance,Washington,Mid,47,14,96830,3,4,No,No,No,5,Low Risk
+1406,HR,Washington,Mid,33,2,110632,1,1,Yes,Yes,No,80,High Risk
+1407,Engineering,Texas,Mid,51,10,66833,2,2,No,Yes,Yes,40,Medium Risk
+1408,Customer Support,New York,Senior,55,0,142394,4,5,No,No,No,20,Low Risk
+1409,Customer Support,Washington,Senior,26,6,122864,2,1,No,No,Yes,45,Medium Risk
+1410,HR,California,Mid,25,9,54398,2,5,Yes,Yes,Yes,45,Medium Risk
+1411,Marketing,Washington,Entry,42,2,154633,1,2,No,No,Yes,60,Medium Risk
+1412,HR,Texas,Mid,43,7,91554,3,2,No,Yes,No,20,Low Risk
+1413,Sales,Remote,Entry,45,3,80755,5,4,Yes,No,No,30,Low Risk
+1414,Sales,Texas,Senior,54,3,47706,1,5,No,No,No,25,Low Risk
+1415,Customer Support,Remote,Mid,46,4,52340,5,3,No,No,No,5,Low Risk
+1416,Marketing,Remote,Entry,25,5,94994,2,4,No,Yes,No,20,Low Risk
+1417,Engineering,New York,Entry,46,6,93884,5,5,No,No,No,5,Low Risk
+1418,Sales,Washington,Mid,40,13,114361,3,1,No,Yes,No,20,Low Risk
+1419,Customer Support,California,Mid,26,13,47482,1,1,Yes,Yes,Yes,65,High Risk
+1420,Finance,California,Mid,26,3,84225,3,2,No,Yes,No,20,Low Risk
+1421,Customer Support,Virginia,Entry,38,15,88849,3,3,No,No,No,5,Low Risk
+1422,Sales,Remote,Mid,24,7,104854,1,1,Yes,No,Yes,70,High Risk
+1423,Sales,California,Mid,37,12,71256,3,5,Yes,Yes,No,25,Low Risk
+1424,Customer Support,New York,Senior,34,5,139545,4,5,Yes,No,No,30,Low Risk
+1425,Engineering,Remote,Mid,34,13,138721,4,1,No,No,Yes,25,Low Risk
+1426,HR,New York,Mid,33,0,111110,4,5,Yes,No,No,45,Medium Risk
+1427,Sales,California,Entry,27,0,143606,5,5,No,No,No,20,Low Risk
+1428,Customer Support,California,Manager,35,8,44650,3,2,Yes,Yes,No,45,Medium Risk
+1429,Customer Support,Virginia,Mid,39,9,76118,1,3,No,No,No,25,Low Risk
+1430,Marketing,California,Senior,55,5,58930,1,2,No,No,Yes,45,Medium Risk
+1431,HR,Remote,Entry,37,15,115707,5,3,No,Yes,No,0,Low Risk
+1432,Finance,Remote,Mid,55,15,159030,1,5,No,Yes,No,20,Low Risk
+1433,Engineering,Remote,Entry,39,9,130400,4,3,No,Yes,No,0,Low Risk
+1434,Finance,Virginia,Mid,40,7,41801,3,5,No,Yes,No,0,Low Risk
+1435,HR,Virginia,Manager,56,12,81360,1,5,Yes,No,Yes,50,Medium Risk
+1436,HR,California,Mid,55,6,117908,1,2,Yes,No,Yes,70,High Risk
+1437,HR,Texas,Entry,52,11,46559,2,2,No,No,No,45,Medium Risk
+1438,Finance,Texas,Entry,44,5,62334,2,4,No,No,No,25,Low Risk
+1439,HR,Virginia,Mid,37,15,135473,2,1,No,Yes,No,40,Medium Risk
+1440,Customer Support,California,Entry,27,3,43288,3,4,Yes,No,No,30,Low Risk
+1441,Finance,Texas,Entry,21,15,52398,4,4,Yes,Yes,No,25,Low Risk
+1442,HR,California,Senior,55,6,106230,4,3,Yes,No,No,30,Low Risk
+1443,Customer Support,California,Mid,52,8,42191,4,5,No,Yes,No,0,Low Risk
+1444,Marketing,California,Entry,56,13,48051,3,5,No,No,No,5,Low Risk
+1445,HR,Washington,Manager,33,10,91715,3,5,No,Yes,No,0,Low Risk
+1446,Finance,Remote,Entry,26,9,40737,2,1,No,Yes,Yes,40,Medium Risk
+1447,Sales,California,Manager,34,9,95140,1,3,No,Yes,Yes,20,Low Risk
+1448,HR,Washington,Mid,57,13,55251,5,3,No,No,No,5,Low Risk
+1449,Sales,Virginia,Senior,35,6,80975,5,5,Yes,No,No,30,Low Risk
+1450,Customer Support,Texas,Mid,24,0,35147,1,4,No,Yes,Yes,35,Medium Risk
+1451,Marketing,Remote,Senior,36,9,80508,2,1,Yes,No,Yes,70,High Risk
+1452,Engineering,Texas,Manager,48,8,82224,1,4,Yes,No,No,50,Medium Risk
+1453,Marketing,Remote,Entry,36,12,49643,1,2,No,No,Yes,45,Medium Risk
+1454,HR,Texas,Manager,24,3,68967,5,3,No,No,No,5,Low Risk
+1455,Sales,Remote,Mid,46,14,128850,2,3,No,Yes,No,20,Low Risk
+1456,Sales,Texas,Mid,48,2,133535,3,4,No,Yes,Yes,15,Low Risk
+1457,Finance,Texas,Mid,52,3,70733,5,1,No,No,No,25,Low Risk
+1458,Sales,Texas,Mid,22,3,114003,3,3,No,No,No,5,Low Risk
+1459,Finance,Texas,Entry,51,12,64808,2,4,No,No,No,25,Low Risk
+1460,Customer Support,Virginia,Mid,23,9,149222,1,1,No,No,Yes,45,Medium Risk
+1461,Engineering,California,Mid,28,10,97288,4,4,No,Yes,No,0,Low Risk
+1462,HR,New York,Senior,44,1,88959,4,1,Yes,No,No,65,High Risk
+1463,Finance,Washington,Senior,35,13,31849,2,5,Yes,Yes,Yes,45,Medium Risk
+1464,Engineering,New York,Mid,51,11,98178,4,1,No,No,No,25,Low Risk
+1465,Sales,New York,Mid,29,13,97136,3,2,Yes,No,Yes,50,Medium Risk
+1466,Sales,Remote,Entry,59,0,90740,4,5,No,No,No,20,Low Risk
+1467,Engineering,California,Entry,22,11,142255,2,4,Yes,No,Yes,50,Medium Risk
+1468,Sales,Remote,Entry,28,9,116322,2,5,Yes,Yes,No,45,Medium Risk
+1469,Customer Support,California,Mid,27,11,74565,3,5,No,Yes,No,0,Low Risk
+1470,Customer Support,California,Entry,59,0,50183,4,4,No,No,No,20,Low Risk
+1471,Engineering,Texas,Manager,36,12,145306,4,4,Yes,No,No,30,Low Risk
+1472,Finance,Virginia,Mid,55,13,31132,1,2,No,Yes,Yes,40,Medium Risk
+1473,Finance,Texas,Mid,50,7,68259,5,4,No,No,No,5,Low Risk
+1474,Engineering,Virginia,Mid,30,13,126612,2,3,Yes,No,Yes,50,Medium Risk
+1475,Finance,Remote,Entry,58,1,93668,1,3,No,Yes,No,35,Medium Risk
+1476,Finance,Virginia,Mid,38,11,158355,2,2,No,Yes,No,40,Medium Risk
+1477,Customer Support,Remote,Mid,25,9,68563,1,1,No,No,Yes,45,Medium Risk
+1478,Finance,New York,Mid,49,4,122227,5,1,No,No,No,25,Low Risk
+1479,Marketing,New York,Mid,59,11,138835,1,3,Yes,No,Yes,50,Medium Risk
+1480,HR,Virginia,Manager,54,15,40931,2,4,Yes,No,No,50,Medium Risk
+1481,Sales,Virginia,Senior,43,3,157156,4,2,No,Yes,No,20,Low Risk
+1482,Marketing,Remote,Mid,25,7,103169,2,1,No,No,Yes,45,Medium Risk
+1483,Finance,Texas,Mid,50,1,159457,3,1,No,Yes,No,35,Medium Risk
+1484,Customer Support,Remote,Mid,26,9,80639,3,5,No,Yes,No,0,Low Risk
+1485,Engineering,Texas,Entry,24,8,152536,3,3,Yes,No,Yes,30,Low Risk
+1486,Finance,New York,Mid,49,6,133313,3,4,No,No,No,5,Low Risk
+1487,Customer Support,California,Entry,43,14,88901,5,2,Yes,Yes,Yes,45,Medium Risk
+1488,HR,Virginia,Mid,26,12,130417,4,1,Yes,Yes,No,45,Medium Risk
+1489,Finance,Texas,Mid,52,6,31044,4,5,Yes,No,No,30,Low Risk
+1490,Engineering,Remote,Entry,38,0,76691,2,3,No,No,No,40,Medium Risk
+1491,Customer Support,New York,Manager,35,13,130735,1,3,Yes,No,Yes,50,Medium Risk
+1492,Customer Support,Texas,Manager,52,15,54363,2,2,No,No,Yes,45,Medium Risk
+1493,Customer Support,Remote,Senior,29,11,76694,2,1,No,No,Yes,45,Medium Risk
+1494,HR,Virginia,Mid,57,1,31582,2,2,No,No,Yes,60,Medium Risk
+1495,Finance,Virginia,Senior,30,3,109910,2,2,No,Yes,No,40,Medium Risk
+1496,HR,Washington,Entry,40,3,96844,4,5,No,Yes,No,0,Low Risk
+1497,Sales,California,Senior,26,10,51301,1,3,Yes,Yes,No,45,Medium Risk
+1498,Sales,Washington,Entry,23,13,104329,2,4,No,No,No,25,Low Risk
+1499,Finance,New York,Senior,31,2,31620,4,3,No,No,No,20,Low Risk
+1500,HR,Texas,Entry,37,6,92224,2,3,No,No,No,25,Low Risk
+1501,Engineering,New York,Senior,52,11,86655,3,5,No,Yes,No,0,Low Risk
+1502,Customer Support,Remote,Manager,24,7,125419,2,4,No,Yes,No,20,Low Risk
+1503,Customer Support,Virginia,Entry,24,1,67534,2,1,No,Yes,Yes,55,Medium Risk
+1504,Finance,Washington,Mid,37,15,150050,5,4,No,Yes,No,0,Low Risk
+1505,Sales,Washington,Manager,39,3,133496,3,1,No,No,No,25,Low Risk
+1506,Sales,Washington,Mid,25,13,69390,1,4,No,No,Yes,25,Low Risk
+1507,Customer Support,New York,Senior,52,15,101629,2,2,No,No,Yes,45,Medium Risk
+1508,Finance,Virginia,Mid,42,2,85856,1,4,No,No,Yes,40,Medium Risk
+1509,HR,Texas,Mid,26,1,79252,3,5,No,No,No,20,Low Risk
+1510,Sales,Remote,Entry,55,11,85809,2,1,No,No,No,45,Medium Risk
+1511,HR,Texas,Entry,42,12,52259,5,3,No,Yes,No,0,Low Risk
+1512,Sales,New York,Senior,21,13,50655,4,5,No,No,No,5,Low Risk
+1513,Sales,Remote,Mid,40,5,63005,5,1,Yes,No,Yes,50,Medium Risk
+1514,Marketing,Washington,Mid,42,12,61629,5,1,No,No,No,25,Low Risk
+1515,Sales,California,Mid,31,15,53610,4,3,No,Yes,No,0,Low Risk
+1516,Engineering,New York,Mid,33,3,87184,4,2,Yes,Yes,No,45,Medium Risk
+1517,Finance,New York,Senior,23,5,51602,4,5,No,Yes,No,0,Low Risk
+1518,Finance,Virginia,Manager,29,1,115945,2,3,No,No,No,40,Medium Risk
+1519,HR,Texas,Mid,32,11,41110,1,3,No,Yes,Yes,20,Low Risk
+1520,Sales,New York,Senior,43,3,36073,1,2,Yes,No,Yes,70,High Risk
+1521,Engineering,New York,Senior,34,10,130846,4,5,No,No,No,5,Low Risk
+1522,HR,Washington,Mid,53,5,110818,5,3,No,Yes,No,0,Low Risk
+1523,Marketing,Washington,Manager,38,13,40195,3,2,No,No,No,25,Low Risk
+1524,HR,Remote,Entry,29,4,31537,4,5,Yes,No,Yes,30,Low Risk
+1525,HR,California,Entry,43,2,47138,5,4,No,No,No,20,Low Risk
+1526,Sales,Virginia,Senior,30,7,74328,5,1,No,No,No,25,Low Risk
+1527,Marketing,California,Mid,39,6,155138,2,2,No,Yes,No,40,Medium Risk
+1528,HR,Remote,Senior,25,15,76202,2,1,No,Yes,Yes,40,Medium Risk
+1529,Engineering,Washington,Senior,43,15,70164,1,4,No,No,No,25,Low Risk
+1530,Engineering,Texas,Entry,50,2,156545,1,3,No,No,No,40,Medium Risk
+1531,Finance,Washington,Senior,45,5,119743,3,3,No,No,No,5,Low Risk
+1532,Marketing,Virginia,Mid,48,3,84659,3,5,No,No,No,5,Low Risk
+1533,Marketing,Washington,Mid,54,10,116155,3,2,No,No,No,25,Low Risk
+1534,Finance,Virginia,Mid,45,4,79692,3,2,No,No,No,25,Low Risk
+1535,HR,Virginia,Manager,30,10,150198,5,5,Yes,No,No,30,Low Risk
+1536,Marketing,Virginia,Entry,34,4,54845,5,1,No,No,No,25,Low Risk
+1537,Engineering,Remote,Mid,50,15,119846,1,3,Yes,Yes,Yes,45,Medium Risk
+1538,Engineering,Virginia,Senior,45,6,133435,2,3,Yes,No,No,50,Medium Risk
+1539,Sales,Virginia,Senior,34,10,60562,2,2,No,Yes,Yes,40,Medium Risk
+1540,Marketing,Texas,Senior,55,4,58036,4,2,No,No,No,25,Low Risk
+1541,HR,California,Entry,54,10,90752,5,5,No,Yes,No,0,Low Risk
+1542,Finance,New York,Entry,30,14,104233,3,4,No,No,No,5,Low Risk
+1543,Finance,California,Mid,55,15,113049,3,1,No,No,No,25,Low Risk
+1544,HR,Virginia,Senior,31,2,138575,4,4,No,Yes,No,15,Low Risk
+1545,Customer Support,Texas,Entry,31,9,98681,2,4,No,No,No,25,Low Risk
+1546,Sales,Washington,Entry,41,4,57818,3,2,No,Yes,No,20,Low Risk
+1547,Finance,Texas,Manager,41,6,60544,2,2,No,No,No,45,Medium Risk
+1548,Marketing,Virginia,Entry,42,4,92532,4,2,No,Yes,No,20,Low Risk
+1549,Sales,Texas,Manager,27,4,108636,2,4,No,Yes,No,20,Low Risk
+1550,Marketing,Texas,Senior,37,8,87705,2,1,Yes,Yes,Yes,65,High Risk
+1551,Engineering,Virginia,Senior,22,14,50104,2,2,Yes,No,Yes,70,High Risk
+1552,Sales,Remote,Entry,32,2,154336,3,3,Yes,Yes,No,40,Medium Risk
+1553,Finance,Texas,Entry,38,12,157904,1,1,Yes,No,Yes,70,High Risk
+1554,Sales,New York,Senior,31,5,99603,5,3,No,Yes,No,0,Low Risk
+1555,Sales,New York,Senior,36,0,132499,2,1,Yes,Yes,Yes,80,High Risk
+1556,Sales,Texas,Senior,38,9,89025,2,2,Yes,Yes,No,65,High Risk
+1557,Customer Support,Remote,Entry,55,4,126264,2,5,Yes,Yes,Yes,45,Medium Risk
+1558,Sales,Washington,Senior,46,7,62317,1,2,Yes,No,Yes,70,High Risk
+1559,Marketing,Virginia,Senior,36,4,61416,4,4,Yes,No,No,30,Low Risk
+1560,Engineering,New York,Senior,26,8,72012,3,4,No,No,No,5,Low Risk
+1561,HR,Washington,Senior,32,10,135585,1,1,No,Yes,Yes,40,Medium Risk
+1562,Sales,Texas,Senior,33,5,98045,2,4,Yes,Yes,No,45,Medium Risk
+1563,Finance,Washington,Mid,24,7,51400,1,2,No,No,No,45,Medium Risk
+1564,Sales,California,Entry,59,9,78270,1,3,No,No,Yes,25,Low Risk
+1565,Finance,New York,Mid,22,7,102069,1,2,Yes,Yes,Yes,65,High Risk
+1566,Marketing,Texas,Entry,46,12,149415,4,1,No,No,No,25,Low Risk
+1567,Finance,Virginia,Mid,47,2,79833,5,4,No,Yes,No,15,Low Risk
+1568,HR,Remote,Mid,47,6,93644,3,3,No,Yes,No,0,Low Risk
+1569,Engineering,Texas,Entry,35,13,110206,4,5,No,No,No,5,Low Risk
+1570,Finance,Virginia,Mid,28,6,99468,4,3,Yes,Yes,No,25,Low Risk
+1571,Finance,Remote,Entry,27,13,142899,5,3,No,No,No,5,Low Risk
+1572,Engineering,Remote,Senior,32,9,89473,4,2,No,Yes,No,20,Low Risk
+1573,HR,Texas,Manager,33,11,75809,1,5,No,No,No,25,Low Risk
+1574,Sales,Washington,Entry,37,5,68328,1,1,Yes,Yes,Yes,65,High Risk
+1575,Finance,Washington,Manager,37,11,66784,2,1,No,No,No,45,Medium Risk
+1576,Engineering,Remote,Mid,56,6,53723,4,3,No,Yes,No,0,Low Risk
+1577,Marketing,Washington,Entry,41,13,90646,2,3,No,No,No,25,Low Risk
+1578,Engineering,California,Entry,28,1,96255,3,4,Yes,No,No,45,Medium Risk
+1579,Marketing,Remote,Mid,25,8,30074,1,5,No,No,No,25,Low Risk
+1580,HR,Remote,Senior,46,9,154173,3,3,No,No,No,5,Low Risk
+1581,Sales,Virginia,Senior,36,9,56498,5,4,No,No,No,5,Low Risk
+1582,Engineering,Washington,Entry,56,0,95522,1,5,No,Yes,No,35,Medium Risk
+1583,Customer Support,Remote,Entry,48,0,126881,3,1,No,Yes,No,35,Medium Risk
+1584,Finance,California,Mid,49,2,50541,5,4,No,Yes,No,15,Low Risk
+1585,HR,Virginia,Entry,32,13,75929,3,5,No,Yes,No,0,Low Risk
+1586,Engineering,Texas,Entry,57,14,153199,5,4,No,No,No,5,Low Risk
+1587,Finance,Remote,Entry,50,2,130453,5,3,No,Yes,No,15,Low Risk
+1588,Engineering,California,Senior,43,0,56028,1,2,Yes,No,Yes,85,High Risk
+1589,Marketing,New York,Manager,36,11,59545,2,1,No,No,No,45,Medium Risk
+1590,Engineering,California,Mid,34,6,109569,5,3,No,No,No,5,Low Risk
+1591,Customer Support,California,Manager,30,3,61673,5,3,No,No,No,5,Low Risk
+1592,Engineering,Virginia,Mid,27,9,60974,1,5,No,Yes,No,20,Low Risk
+1593,Engineering,Texas,Mid,57,12,88899,2,4,No,No,No,25,Low Risk
+1594,Customer Support,New York,Entry,49,1,53097,4,1,No,Yes,No,35,Medium Risk
+1595,HR,Washington,Mid,23,9,132511,4,3,Yes,No,Yes,30,Low Risk
+1596,Engineering,Washington,Manager,35,4,123144,2,5,No,No,Yes,25,Low Risk
+1597,Customer Support,California,Mid,56,5,94824,3,1,Yes,No,Yes,50,Medium Risk
+1598,Finance,Virginia,Mid,39,8,53525,1,4,Yes,Yes,No,45,Medium Risk
+1599,Marketing,Virginia,Mid,33,3,87804,2,3,No,Yes,No,20,Low Risk
+1600,Marketing,Washington,Entry,41,1,45043,4,3,No,Yes,No,15,Low Risk
+1601,Engineering,New York,Senior,57,4,71846,5,3,No,Yes,No,0,Low Risk
+1602,HR,Texas,Mid,47,2,107261,4,1,Yes,Yes,Yes,60,Medium Risk
+1603,HR,New York,Mid,49,1,132240,5,1,Yes,No,Yes,65,High Risk
+1604,Finance,Remote,Mid,40,11,137611,1,1,No,Yes,Yes,40,Medium Risk
+1605,Engineering,Remote,Mid,45,0,80227,5,1,No,No,No,40,Medium Risk
+1606,Marketing,Texas,Entry,26,9,83028,2,5,Yes,No,No,50,Medium Risk
+1607,HR,Washington,Senior,56,1,67383,5,2,No,No,Yes,40,Medium Risk
+1608,Engineering,Texas,Entry,22,5,59483,3,5,No,Yes,No,0,Low Risk
+1609,HR,Virginia,Senior,42,7,37265,2,3,No,Yes,No,20,Low Risk
+1610,Customer Support,Remote,Senior,52,12,52763,1,5,No,No,No,25,Low Risk
+1611,HR,California,Senior,36,2,105652,2,4,No,Yes,No,35,Medium Risk
+1612,Marketing,California,Mid,38,10,45733,3,1,No,No,No,25,Low Risk
+1613,Sales,Washington,Mid,25,14,142196,1,4,No,Yes,No,20,Low Risk
+1614,Finance,Virginia,Entry,56,8,121038,4,4,Yes,No,Yes,30,Low Risk
+1615,Finance,New York,Senior,50,14,67420,3,3,No,No,No,5,Low Risk
+1616,Marketing,Virginia,Entry,39,11,151480,1,1,No,No,Yes,45,Medium Risk
+1617,HR,California,Mid,43,8,138777,5,4,No,Yes,No,0,Low Risk
+1618,Engineering,California,Entry,54,1,39247,2,3,No,Yes,Yes,35,Medium Risk
+1619,HR,Remote,Entry,33,7,53840,1,1,Yes,No,Yes,70,High Risk
+1620,Marketing,Virginia,Mid,49,9,95149,2,2,Yes,No,No,70,High Risk
+1621,Finance,Virginia,Entry,56,10,51058,5,3,No,Yes,No,0,Low Risk
+1622,HR,California,Senior,42,11,145229,1,5,No,Yes,Yes,20,Low Risk
+1623,Finance,New York,Mid,56,4,64929,4,1,Yes,Yes,No,45,Medium Risk
+1624,Engineering,Washington,Entry,29,3,114171,3,4,No,No,No,5,Low Risk
+1625,Finance,Washington,Mid,59,9,121164,1,4,No,Yes,No,20,Low Risk
+1626,Finance,Virginia,Entry,39,4,61362,5,5,No,No,No,5,Low Risk
+1627,Sales,Washington,Entry,58,3,116489,1,5,No,No,No,25,Low Risk
+1628,Sales,California,Senior,26,15,114664,2,4,No,No,No,25,Low Risk
+1629,Customer Support,California,Entry,35,7,77356,1,1,No,No,No,45,Medium Risk
+1630,Sales,Virginia,Senior,40,3,107597,4,3,No,No,No,5,Low Risk
+1631,Finance,Virginia,Entry,29,12,157880,1,5,Yes,No,Yes,50,Medium Risk
+1632,Marketing,Remote,Entry,52,9,36041,3,5,Yes,Yes,Yes,25,Low Risk
+1633,Finance,Virginia,Senior,24,11,108209,1,5,Yes,Yes,Yes,45,Medium Risk
+1634,Marketing,New York,Mid,38,12,157037,2,2,No,No,No,45,Medium Risk
+1635,Marketing,Washington,Entry,25,13,91954,1,1,Yes,No,Yes,70,High Risk
+1636,Sales,Virginia,Mid,40,15,91869,4,1,Yes,No,Yes,50,Medium Risk
+1637,HR,Texas,Entry,43,5,51059,5,1,No,Yes,No,20,Low Risk
+1638,Engineering,Remote,Senior,31,1,129864,1,1,Yes,No,Yes,85,High Risk
+1639,Sales,Texas,Mid,57,4,74722,1,1,Yes,Yes,Yes,65,High Risk
+1640,Sales,California,Senior,42,5,47548,3,4,Yes,No,No,30,Low Risk
+1641,HR,Washington,Senior,24,4,45078,4,5,No,Yes,No,0,Low Risk
+1642,Engineering,Virginia,Mid,49,11,35419,5,4,Yes,No,Yes,30,Low Risk
+1643,Finance,Texas,Manager,54,1,65490,2,2,No,Yes,No,55,Medium Risk
+1644,Customer Support,Washington,Mid,33,13,106086,1,3,No,Yes,No,20,Low Risk
+1645,Customer Support,California,Manager,29,6,145158,5,5,No,No,No,5,Low Risk
+1646,Finance,New York,Entry,51,3,88760,2,2,No,Yes,No,40,Medium Risk
+1647,Sales,Remote,Senior,27,7,60337,4,4,No,No,No,5,Low Risk
+1648,Engineering,Washington,Mid,24,6,31468,4,3,Yes,No,No,30,Low Risk
+1649,Sales,Washington,Mid,39,6,54309,5,2,Yes,No,No,50,Medium Risk
+1650,Marketing,New York,Mid,50,8,96344,2,3,Yes,Yes,No,45,Medium Risk
+1651,Sales,Washington,Senior,51,0,120283,4,2,Yes,No,Yes,65,High Risk
+1652,Sales,California,Entry,55,9,102255,5,4,Yes,No,No,30,Low Risk
+1653,Finance,California,Entry,41,5,157006,4,3,Yes,No,Yes,30,Low Risk
+1654,Finance,New York,Senior,51,5,111899,4,2,No,No,No,25,Low Risk
+1655,Finance,Remote,Senior,39,5,58718,4,4,No,Yes,No,0,Low Risk
+1656,Customer Support,Virginia,Manager,51,12,124337,3,5,No,Yes,No,0,Low Risk
+1657,Marketing,Texas,Senior,52,11,138895,2,4,No,Yes,No,20,Low Risk
+1658,Finance,Virginia,Manager,22,5,67841,5,4,Yes,Yes,No,25,Low Risk
+1659,Engineering,Washington,Senior,30,11,103548,5,5,Yes,Yes,Yes,25,Low Risk
+1660,Customer Support,Texas,Entry,22,9,113565,2,4,No,No,No,25,Low Risk
+1661,HR,New York,Entry,22,6,76660,2,5,Yes,No,Yes,50,Medium Risk
+1662,Engineering,New York,Senior,44,13,136553,2,5,Yes,Yes,Yes,45,Medium Risk
+1663,Engineering,Remote,Mid,37,9,80281,2,5,No,No,No,25,Low Risk
+1664,Finance,Texas,Entry,52,5,143451,1,2,No,No,Yes,45,Medium Risk
+1665,HR,California,Mid,36,0,146041,5,3,No,No,No,20,Low Risk
+1666,HR,Texas,Manager,36,2,30767,1,2,Yes,No,Yes,85,High Risk
+1667,Customer Support,Washington,Mid,59,1,33895,4,5,No,No,No,20,Low Risk
+1668,HR,California,Mid,51,5,88026,4,3,No,Yes,No,0,Low Risk
+1669,Marketing,New York,Mid,44,7,148142,5,3,No,Yes,No,0,Low Risk
+1670,Finance,Texas,Entry,21,2,72968,4,5,No,Yes,No,15,Low Risk
+1671,HR,Virginia,Mid,31,9,70097,2,3,No,No,No,25,Low Risk
+1672,Customer Support,Remote,Mid,41,7,45332,1,3,Yes,Yes,No,45,Medium Risk
+1673,Marketing,Virginia,Entry,24,7,44621,2,2,No,No,No,45,Medium Risk
+1674,Sales,Remote,Senior,27,4,106870,4,3,No,Yes,No,0,Low Risk
+1675,Sales,Washington,Mid,46,7,48174,1,5,No,No,Yes,25,Low Risk
+1676,Marketing,Virginia,Senior,32,5,154357,2,1,No,Yes,No,40,Medium Risk
+1677,Customer Support,Texas,Senior,51,4,129189,5,1,No,Yes,No,20,Low Risk
+1678,Marketing,Texas,Entry,37,8,70502,2,1,No,Yes,Yes,40,Medium Risk
+1679,Finance,Virginia,Senior,53,13,66674,4,5,No,Yes,No,0,Low Risk
+1680,Finance,Texas,Mid,31,6,67260,1,1,No,Yes,Yes,40,Medium Risk
+1681,Sales,Washington,Senior,48,7,72498,5,2,No,No,No,25,Low Risk
+1682,HR,California,Entry,52,0,97609,1,5,Yes,Yes,Yes,60,Medium Risk
+1683,Customer Support,Washington,Senior,21,10,79464,5,5,Yes,Yes,Yes,25,Low Risk
+1684,Sales,Remote,Mid,48,1,101805,1,5,No,No,No,40,Medium Risk
+1685,HR,Washington,Entry,27,7,94919,4,3,No,Yes,No,0,Low Risk
+1686,HR,Remote,Entry,22,11,158564,5,3,No,No,No,5,Low Risk
+1687,Finance,Texas,Senior,44,8,84469,3,3,No,No,No,5,Low Risk
+1688,Engineering,California,Senior,24,3,47194,1,4,Yes,Yes,No,45,Medium Risk
+1689,Engineering,Texas,Mid,39,15,56811,1,2,Yes,Yes,Yes,65,High Risk
+1690,Marketing,New York,Mid,46,11,102377,2,5,No,Yes,Yes,20,Low Risk
+1691,Finance,Texas,Mid,31,15,155737,5,5,Yes,No,No,30,Low Risk
+1692,HR,Remote,Senior,31,9,73723,3,3,No,No,No,5,Low Risk
+1693,Customer Support,Texas,Entry,23,10,130336,4,5,Yes,No,No,30,Low Risk
+1694,Engineering,Texas,Senior,32,9,105235,2,5,Yes,No,Yes,50,Medium Risk
+1695,HR,California,Entry,23,13,141041,3,1,No,Yes,No,20,Low Risk
+1696,Engineering,Texas,Mid,47,8,106298,5,5,No,No,No,5,Low Risk
+1697,Engineering,California,Entry,22,3,89238,3,4,No,No,No,5,Low Risk
+1698,Engineering,Virginia,Entry,36,9,158353,1,3,Yes,No,No,50,Medium Risk
+1699,Customer Support,New York,Mid,22,15,135433,1,2,No,No,Yes,45,Medium Risk
+1700,Finance,California,Entry,50,9,147393,2,2,No,No,No,45,Medium Risk
+1701,Customer Support,Remote,Senior,40,9,137092,5,1,No,Yes,No,20,Low Risk
+1702,Sales,Virginia,Entry,58,8,32147,5,2,No,Yes,Yes,20,Low Risk
+1703,HR,California,Mid,48,10,128919,3,2,Yes,No,Yes,50,Medium Risk
+1704,Finance,California,Mid,45,6,129251,2,3,No,Yes,Yes,20,Low Risk
+1705,Finance,New York,Entry,52,1,68445,5,3,No,No,No,20,Low Risk
+1706,Finance,Remote,Entry,30,8,83803,1,4,No,Yes,No,20,Low Risk
+1707,Finance,Washington,Mid,53,3,157253,3,1,Yes,No,No,50,Medium Risk
+1708,Customer Support,Washington,Mid,33,7,91108,4,2,No,No,No,25,Low Risk
+1709,Finance,California,Mid,57,13,136170,1,4,No,Yes,Yes,20,Low Risk
+1710,Marketing,Texas,Mid,36,6,32013,2,1,Yes,No,Yes,70,High Risk
+1711,HR,Remote,Mid,42,12,115617,5,2,Yes,No,No,50,Medium Risk
+1712,Finance,Virginia,Entry,40,14,112410,1,2,No,No,Yes,45,Medium Risk
+1713,HR,Texas,Mid,47,15,83502,4,3,No,Yes,No,0,Low Risk
+1714,Marketing,Texas,Manager,36,6,147116,4,5,No,Yes,Yes,0,Low Risk
+1715,Marketing,Remote,Mid,54,7,67755,2,1,No,Yes,Yes,40,Medium Risk
+1716,HR,California,Senior,52,0,38733,1,2,No,Yes,No,55,Medium Risk
+1717,Engineering,California,Mid,46,4,39479,3,1,No,No,No,25,Low Risk
+1718,Sales,California,Senior,45,1,105361,1,4,Yes,No,Yes,65,High Risk
+1719,Engineering,California,Senior,22,1,51304,4,4,No,No,No,20,Low Risk
+1720,Engineering,Washington,Mid,32,14,65694,2,5,No,No,No,25,Low Risk
+1721,Customer Support,California,Manager,29,0,154232,2,2,Yes,No,Yes,85,High Risk
+1722,Engineering,Washington,Entry,32,4,135586,3,3,No,No,No,5,Low Risk
+1723,Finance,Washington,Entry,46,1,111171,2,2,No,No,Yes,60,Medium Risk
+1724,Customer Support,California,Senior,29,3,144151,2,1,No,No,No,45,Medium Risk
+1725,Customer Support,New York,Senior,30,2,116296,2,4,No,No,No,40,Medium Risk
+1726,Marketing,Virginia,Entry,52,2,39490,2,1,No,Yes,Yes,55,Medium Risk
+1727,Engineering,Texas,Entry,54,1,51252,2,5,Yes,Yes,Yes,60,Medium Risk
+1728,Marketing,Washington,Entry,40,12,135290,4,4,No,No,No,5,Low Risk
+1729,HR,Remote,Entry,59,5,36862,1,3,No,No,No,25,Low Risk
+1730,Sales,Remote,Senior,22,1,140463,5,4,No,No,No,20,Low Risk
+1731,Customer Support,Virginia,Mid,21,13,99959,2,2,No,No,Yes,45,Medium Risk
+1732,HR,Remote,Mid,56,13,40450,5,2,No,Yes,No,20,Low Risk
+1733,HR,New York,Mid,44,7,86022,5,4,Yes,No,No,30,Low Risk
+1734,Finance,Remote,Entry,47,7,157898,4,5,Yes,Yes,No,25,Low Risk
+1735,Sales,Texas,Entry,22,12,91991,2,2,No,No,Yes,45,Medium Risk
+1736,HR,Texas,Mid,51,13,70927,5,2,Yes,No,Yes,50,Medium Risk
+1737,HR,Washington,Manager,34,11,130377,2,3,Yes,Yes,Yes,45,Medium Risk
+1738,Sales,California,Senior,22,4,118090,3,4,No,No,No,5,Low Risk
+1739,Sales,New York,Entry,49,9,79853,3,2,No,No,No,25,Low Risk
+1740,HR,Washington,Senior,35,6,61826,3,5,Yes,Yes,No,25,Low Risk
+1741,Sales,New York,Senior,32,3,72879,5,1,No,No,No,25,Low Risk
+1742,HR,California,Senior,57,0,87265,3,4,No,No,No,20,Low Risk
+1743,HR,Remote,Mid,48,10,102361,4,3,No,No,No,5,Low Risk
+1744,Finance,Remote,Mid,40,1,138956,4,2,No,Yes,No,35,Medium Risk
+1745,Engineering,California,Mid,59,9,107990,5,5,No,Yes,No,0,Low Risk
+1746,HR,Washington,Entry,44,9,119787,2,4,Yes,No,No,50,Medium Risk
+1747,Marketing,California,Entry,41,3,116184,1,5,Yes,Yes,Yes,45,Medium Risk
+1748,Customer Support,Virginia,Entry,30,0,70736,2,5,No,No,No,40,Medium Risk
+1749,Engineering,Texas,Mid,34,14,54530,2,3,No,Yes,Yes,20,Low Risk
+1750,Engineering,Washington,Senior,57,12,108052,2,4,No,No,No,25,Low Risk
+1751,Engineering,New York,Mid,38,7,77058,2,2,No,No,No,45,Medium Risk
+1752,Finance,Virginia,Entry,44,8,136080,1,3,No,Yes,No,20,Low Risk
+1753,HR,Washington,Manager,34,3,104094,3,2,No,Yes,No,20,Low Risk
+1754,Finance,California,Manager,54,9,104255,2,1,Yes,No,Yes,70,High Risk
+1755,HR,California,Senior,32,2,34886,4,5,Yes,No,No,45,Medium Risk
+1756,Finance,California,Manager,42,1,156598,5,1,No,Yes,No,35,Medium Risk
+1757,Finance,California,Mid,26,4,123721,5,5,Yes,No,Yes,30,Low Risk
+1758,Customer Support,New York,Manager,56,13,148623,4,3,Yes,Yes,Yes,25,Low Risk
+1759,Marketing,Virginia,Entry,56,2,67387,2,2,No,Yes,Yes,55,Medium Risk
+1760,Finance,Remote,Mid,42,9,51575,1,2,No,No,Yes,45,Medium Risk
+1761,Customer Support,Texas,Entry,34,6,142260,3,3,No,Yes,No,0,Low Risk
+1762,Sales,New York,Entry,36,10,138649,5,4,Yes,No,Yes,30,Low Risk
+1763,Marketing,New York,Entry,56,5,69643,3,1,Yes,Yes,No,45,Medium Risk
+1764,Finance,Remote,Mid,45,15,40100,1,1,Yes,Yes,Yes,65,High Risk
+1765,Engineering,Remote,Senior,52,0,90356,5,2,No,Yes,No,35,Medium Risk
+1766,Sales,Texas,Mid,53,11,37856,3,2,No,No,No,25,Low Risk
+1767,Sales,Texas,Entry,56,7,68169,1,2,No,No,No,45,Medium Risk
+1768,Customer Support,Remote,Senior,40,1,58804,3,3,No,No,No,20,Low Risk
+1769,Sales,California,Mid,38,4,159557,2,4,No,Yes,No,20,Low Risk
+1770,Marketing,New York,Mid,58,8,65790,1,1,Yes,Yes,Yes,65,High Risk
+1771,Finance,Washington,Senior,23,7,60988,3,5,No,No,No,5,Low Risk
+1772,Finance,Texas,Entry,43,1,139979,2,3,No,Yes,No,35,Medium Risk
+1773,Engineering,Texas,Mid,52,8,106448,2,1,No,No,Yes,45,Medium Risk
+1774,Customer Support,Remote,Manager,36,15,68506,1,4,No,Yes,Yes,20,Low Risk
+1775,Engineering,Virginia,Entry,25,4,143430,4,3,Yes,No,No,30,Low Risk
+1776,Sales,Washington,Mid,24,9,117904,5,1,No,Yes,No,20,Low Risk
+1777,Engineering,Washington,Senior,41,13,97306,1,3,No,No,Yes,25,Low Risk
+1778,Marketing,Texas,Senior,34,5,42305,2,1,Yes,Yes,Yes,65,High Risk
+1779,Finance,California,Entry,59,12,39969,2,1,Yes,Yes,Yes,65,High Risk
+1780,Sales,Virginia,Entry,51,2,42404,1,4,No,Yes,No,35,Medium Risk
+1781,Engineering,Washington,Entry,34,12,38989,4,5,No,Yes,No,0,Low Risk
+1782,Customer Support,Texas,Mid,26,2,95305,5,4,Yes,Yes,No,40,Medium Risk
+1783,Marketing,Washington,Mid,32,9,65983,3,1,No,No,No,25,Low Risk
+1784,Marketing,Virginia,Entry,36,7,140284,1,3,Yes,No,Yes,50,Medium Risk
+1785,Engineering,Virginia,Manager,37,10,69462,5,4,No,No,No,5,Low Risk
+1786,Finance,New York,Mid,43,9,49360,5,5,Yes,No,No,30,Low Risk
+1787,Engineering,Remote,Entry,34,9,115657,2,1,Yes,No,No,70,High Risk
+1788,Sales,Remote,Mid,27,14,56287,3,4,No,Yes,No,0,Low Risk
+1789,Engineering,Texas,Senior,52,11,95472,1,4,Yes,No,Yes,50,Medium Risk
+1790,Marketing,Virginia,Entry,35,1,145440,2,4,No,Yes,No,35,Medium Risk
+1791,Engineering,New York,Entry,37,10,138965,2,4,Yes,No,No,50,Medium Risk
+1792,Finance,New York,Senior,54,11,91313,4,3,No,Yes,Yes,0,Low Risk
+1793,Customer Support,Washington,Mid,25,11,64160,5,5,Yes,Yes,No,25,Low Risk
+1794,HR,Washington,Mid,47,1,36789,1,5,No,No,Yes,40,Medium Risk
+1795,Engineering,New York,Mid,43,12,57181,1,1,No,Yes,Yes,40,Medium Risk
+1796,Finance,Washington,Entry,34,4,44385,1,2,Yes,No,No,70,High Risk
+1797,Finance,Virginia,Entry,35,5,112597,2,3,No,No,No,25,Low Risk
+1798,Customer Support,California,Mid,53,11,95641,4,1,Yes,Yes,Yes,45,Medium Risk
+1799,Marketing,Virginia,Entry,51,1,74247,3,1,No,Yes,No,35,Medium Risk
+1800,Finance,New York,Entry,55,14,116673,2,4,Yes,No,Yes,50,Medium Risk
+1801,Finance,New York,Senior,37,4,130250,3,2,No,No,No,25,Low Risk
+1802,Finance,Virginia,Manager,48,6,35544,4,2,No,Yes,No,20,Low Risk
+1803,Finance,Washington,Senior,39,9,145783,5,3,No,No,No,5,Low Risk
+1804,Sales,Washington,Senior,43,9,43275,1,2,No,No,No,45,Medium Risk
+1805,Sales,Remote,Entry,52,7,135289,3,1,No,Yes,No,20,Low Risk
+1806,Marketing,New York,Manager,33,11,93248,2,2,No,Yes,Yes,40,Medium Risk
+1807,Engineering,Texas,Entry,40,15,64550,3,2,No,No,No,25,Low Risk
+1808,Finance,Remote,Manager,55,6,83693,5,5,No,Yes,No,0,Low Risk
+1809,Customer Support,Washington,Manager,25,7,158924,1,1,Yes,No,Yes,70,High Risk
+1810,Engineering,Virginia,Senior,29,13,49641,3,2,No,Yes,No,20,Low Risk
+1811,Customer Support,Washington,Manager,49,11,101749,5,2,No,No,No,25,Low Risk
+1812,Engineering,Virginia,Mid,26,8,154877,2,4,No,No,No,25,Low Risk
+1813,Marketing,Remote,Entry,45,15,110021,4,2,No,No,Yes,25,Low Risk
+1814,Finance,New York,Mid,51,14,45605,2,2,Yes,Yes,Yes,65,High Risk
+1815,Finance,Washington,Mid,42,4,133173,1,5,No,Yes,Yes,20,Low Risk
+1816,HR,Virginia,Entry,22,12,80713,2,1,Yes,No,Yes,70,High Risk
+1817,Customer Support,New York,Mid,25,4,50390,2,3,Yes,Yes,No,45,Medium Risk
+1818,Engineering,Texas,Manager,47,10,105403,2,1,Yes,Yes,No,65,High Risk
+1819,Engineering,Virginia,Entry,45,9,88466,2,4,No,No,No,25,Low Risk
+1820,Sales,Remote,Senior,28,3,33981,1,1,Yes,Yes,Yes,65,High Risk
+1821,HR,Texas,Manager,21,12,39493,5,2,Yes,Yes,Yes,45,Medium Risk
+1822,Sales,Texas,Manager,40,8,101218,3,4,No,Yes,No,0,Low Risk
+1823,Sales,California,Manager,43,4,101318,4,1,Yes,No,Yes,50,Medium Risk
+1824,Sales,Washington,Mid,52,13,145631,3,4,Yes,No,No,30,Low Risk
+1825,Customer Support,Virginia,Manager,31,1,149238,3,3,Yes,Yes,Yes,40,Medium Risk
+1826,Customer Support,Texas,Senior,59,14,125335,4,1,No,Yes,No,20,Low Risk
+1827,Marketing,California,Entry,44,9,137441,1,2,No,Yes,No,40,Medium Risk
+1828,Marketing,Remote,Mid,31,7,46984,4,4,Yes,No,No,30,Low Risk
+1829,Sales,New York,Senior,49,14,155580,1,5,No,Yes,No,20,Low Risk
+1830,HR,Virginia,Entry,46,6,141316,3,4,No,No,Yes,5,Low Risk
+1831,Engineering,Texas,Mid,36,7,52760,1,5,Yes,Yes,Yes,45,Medium Risk
+1832,Customer Support,Washington,Senior,55,11,121529,5,2,Yes,No,Yes,50,Medium Risk
+1833,HR,California,Entry,40,15,31524,4,3,No,Yes,No,0,Low Risk
+1834,Finance,Texas,Mid,23,2,148454,5,5,No,No,No,20,Low Risk
+1835,Customer Support,Washington,Senior,21,14,79402,3,3,Yes,Yes,No,25,Low Risk
+1836,Customer Support,Texas,Mid,21,14,121656,4,4,Yes,Yes,Yes,25,Low Risk
+1837,Marketing,Virginia,Entry,37,15,95614,3,2,No,No,No,25,Low Risk
+1838,Engineering,Virginia,Entry,22,3,65891,5,5,Yes,No,No,30,Low Risk
+1839,Engineering,Virginia,Mid,49,4,121009,3,4,No,Yes,No,0,Low Risk
+1840,Finance,Remote,Manager,40,5,69832,4,1,No,No,No,25,Low Risk
+1841,Finance,Remote,Entry,26,0,75836,4,4,No,No,No,20,Low Risk
+1842,Customer Support,California,Mid,28,3,103953,3,3,Yes,No,No,30,Low Risk
+1843,Sales,Virginia,Entry,49,10,43362,4,2,No,Yes,No,20,Low Risk
+1844,Marketing,Washington,Mid,53,11,96745,4,2,Yes,No,No,50,Medium Risk
+1845,Marketing,Texas,Senior,23,9,67921,3,4,No,No,Yes,5,Low Risk
+1846,Customer Support,New York,Senior,55,12,100434,5,1,No,Yes,Yes,20,Low Risk
+1847,HR,Washington,Entry,25,4,157717,4,3,No,No,No,5,Low Risk
+1848,Sales,Remote,Mid,47,6,48562,4,4,No,Yes,No,0,Low Risk
+1849,Customer Support,Remote,Entry,32,12,94510,4,4,No,Yes,No,0,Low Risk
+1850,Sales,Washington,Mid,40,4,106407,4,2,No,No,No,25,Low Risk
+1851,Sales,Remote,Senior,40,15,37610,3,3,No,No,No,5,Low Risk
+1852,Sales,Virginia,Entry,29,12,139381,5,1,No,Yes,No,20,Low Risk
+1853,Customer Support,California,Entry,59,12,122918,5,2,No,Yes,No,20,Low Risk
+1854,Marketing,Texas,Mid,24,0,45791,1,4,No,No,No,40,Medium Risk
+1855,Marketing,California,Manager,39,10,88047,4,2,No,Yes,No,20,Low Risk
+1856,Sales,Texas,Manager,58,6,130848,4,2,Yes,No,No,50,Medium Risk
+1857,HR,Texas,Entry,47,7,133826,1,5,No,No,No,25,Low Risk
+1858,Engineering,California,Senior,33,12,97906,5,2,No,Yes,No,20,Low Risk
+1859,Customer Support,Washington,Mid,33,6,49665,2,2,No,No,No,45,Medium Risk
+1860,Engineering,Texas,Mid,42,10,100246,2,3,No,No,No,25,Low Risk
+1861,HR,California,Senior,48,15,95864,5,2,Yes,No,Yes,50,Medium Risk
+1862,Customer Support,Texas,Manager,42,13,76451,4,1,Yes,No,Yes,50,Medium Risk
+1863,Sales,New York,Manager,39,12,133883,2,4,Yes,No,No,50,Medium Risk
+1864,Marketing,Washington,Mid,28,14,116148,3,3,Yes,No,Yes,30,Low Risk
+1865,Engineering,Virginia,Mid,28,3,75890,3,2,No,No,No,25,Low Risk
+1866,Finance,Texas,Senior,46,7,36794,1,1,No,Yes,No,40,Medium Risk
+1867,Finance,New York,Entry,46,15,62888,5,4,No,Yes,No,0,Low Risk
+1868,HR,Virginia,Mid,43,14,36749,5,3,No,Yes,No,0,Low Risk
+1869,Sales,Virginia,Mid,33,4,76531,2,1,Yes,Yes,Yes,65,High Risk
+1870,Engineering,Texas,Senior,48,9,145652,4,2,Yes,Yes,No,45,Medium Risk
+1871,Sales,California,Entry,29,8,50608,5,5,Yes,No,No,30,Low Risk
+1872,Engineering,Texas,Entry,40,11,110986,2,5,No,No,Yes,25,Low Risk
+1873,HR,New York,Manager,39,11,99211,2,3,No,No,Yes,25,Low Risk
+1874,HR,Virginia,Entry,59,9,150382,5,1,Yes,No,No,50,Medium Risk
+1875,Finance,Texas,Mid,32,4,113996,2,4,Yes,No,No,50,Medium Risk
+1876,Sales,California,Entry,35,15,86017,1,1,Yes,No,Yes,70,High Risk
+1877,Customer Support,Texas,Entry,51,15,133947,1,5,No,No,No,25,Low Risk
+1878,Finance,Washington,Entry,34,0,87676,5,3,No,Yes,Yes,15,Low Risk
+1879,Sales,California,Entry,31,11,41560,4,2,No,No,No,25,Low Risk
+1880,Finance,New York,Senior,46,8,84401,1,1,No,No,Yes,45,Medium Risk
+1881,Customer Support,Virginia,Entry,47,11,80468,1,5,No,Yes,Yes,20,Low Risk
+1882,Marketing,Texas,Manager,31,4,145884,5,4,Yes,No,No,30,Low Risk
+1883,Marketing,California,Mid,58,5,62463,3,3,No,No,No,5,Low Risk
+1884,Marketing,Washington,Mid,54,3,61663,2,2,No,Yes,No,40,Medium Risk
+1885,Marketing,California,Mid,39,5,143687,1,1,No,No,No,45,Medium Risk
+1886,Engineering,Remote,Mid,26,11,98706,3,4,No,Yes,No,0,Low Risk
+1887,Marketing,Washington,Senior,58,7,88773,4,2,No,Yes,No,20,Low Risk
+1888,Customer Support,New York,Entry,48,2,63123,3,5,No,No,Yes,20,Low Risk
+1889,HR,Virginia,Mid,21,4,124346,5,5,Yes,No,No,30,Low Risk
+1890,HR,New York,Senior,55,1,39718,4,4,No,No,Yes,20,Low Risk
+1891,Engineering,Texas,Manager,28,13,156777,4,5,Yes,No,No,30,Low Risk
+1892,Marketing,California,Senior,27,1,92637,3,3,Yes,Yes,Yes,40,Medium Risk
+1893,Marketing,Remote,Mid,31,12,30028,5,4,No,No,No,5,Low Risk
+1894,Marketing,Washington,Senior,59,6,92370,1,5,No,No,Yes,25,Low Risk
+1895,Finance,Washington,Mid,24,9,77599,3,1,Yes,No,No,50,Medium Risk
+1896,Sales,California,Mid,45,12,47397,1,5,No,Yes,No,20,Low Risk
+1897,Finance,Remote,Entry,32,15,139198,3,3,No,No,No,5,Low Risk
+1898,Sales,California,Mid,46,9,137323,1,2,Yes,No,Yes,70,High Risk
+1899,Marketing,Texas,Entry,58,13,75406,3,2,No,No,No,25,Low Risk
+1900,Marketing,New York,Mid,32,10,77657,4,5,No,No,Yes,5,Low Risk
+1901,Finance,Washington,Senior,57,9,97560,2,2,No,Yes,No,40,Medium Risk
+1902,Finance,Texas,Entry,44,5,153178,4,5,No,No,No,5,Low Risk
+1903,Sales,New York,Entry,36,3,134143,1,3,Yes,No,No,50,Medium Risk
+1904,HR,Texas,Entry,33,4,154745,5,2,No,Yes,No,20,Low Risk
+1905,Sales,Remote,Manager,45,0,156896,4,1,No,No,No,40,Medium Risk
+1906,Finance,Washington,Mid,24,6,43503,2,5,No,No,No,25,Low Risk
+1907,Customer Support,California,Mid,31,7,84943,1,2,Yes,No,Yes,70,High Risk
+1908,Finance,California,Senior,52,8,105839,4,3,No,No,No,5,Low Risk
+1909,Customer Support,New York,Senior,27,7,112674,3,3,No,Yes,No,0,Low Risk
+1910,Engineering,Virginia,Mid,31,4,55345,5,1,Yes,No,No,50,Medium Risk
+1911,Finance,Remote,Senior,48,15,148423,1,3,No,No,No,25,Low Risk
+1912,Engineering,New York,Senior,43,2,80390,4,3,No,Yes,No,15,Low Risk
+1913,HR,Virginia,Senior,43,9,125041,1,2,Yes,Yes,Yes,65,High Risk
+1914,Sales,Texas,Entry,48,10,89557,3,5,No,Yes,No,0,Low Risk
+1915,Customer Support,Remote,Senior,46,8,95054,2,4,No,Yes,No,20,Low Risk
+1916,Sales,Texas,Mid,45,14,31906,4,3,No,No,No,5,Low Risk
+1917,Engineering,Washington,Entry,49,5,70167,1,3,No,No,No,25,Low Risk
+1918,Customer Support,Remote,Mid,39,14,37961,1,4,No,No,No,25,Low Risk
+1919,Sales,Virginia,Entry,53,4,56140,1,3,No,No,No,25,Low Risk
+1920,Finance,Washington,Entry,56,12,154098,2,2,No,Yes,Yes,40,Medium Risk
+1921,Marketing,California,Senior,34,2,149289,1,2,Yes,No,Yes,85,High Risk
+1922,Engineering,Virginia,Entry,34,5,88701,5,4,No,No,No,5,Low Risk
+1923,Sales,New York,Mid,55,2,107567,5,3,Yes,No,No,45,Medium Risk
+1924,Engineering,California,Mid,50,9,110664,1,3,Yes,No,No,50,Medium Risk
+1925,Engineering,California,Entry,48,11,111199,5,5,Yes,No,Yes,30,Low Risk
+1926,Customer Support,New York,Manager,37,5,159856,4,3,No,No,No,5,Low Risk
+1927,Customer Support,Remote,Entry,23,3,129764,5,2,Yes,Yes,No,45,Medium Risk
+1928,Marketing,California,Mid,36,14,111218,1,1,Yes,No,Yes,70,High Risk
+1929,Finance,Virginia,Mid,50,1,152357,3,1,Yes,Yes,Yes,60,Medium Risk
+1930,Engineering,Washington,Entry,49,15,110729,4,1,Yes,Yes,Yes,45,Medium Risk
+1931,Sales,California,Entry,35,7,58561,2,1,No,Yes,Yes,40,Medium Risk
+1932,HR,Virginia,Senior,45,3,80568,1,3,No,Yes,No,20,Low Risk
+1933,Engineering,Texas,Manager,58,8,139349,2,3,Yes,Yes,No,45,Medium Risk
+1934,Engineering,Virginia,Entry,58,6,103302,3,5,No,Yes,No,0,Low Risk
+1935,Marketing,Washington,Senior,43,11,125380,2,3,No,No,No,25,Low Risk
+1936,Finance,Virginia,Senior,45,1,124968,1,1,No,No,Yes,60,Medium Risk
+1937,HR,New York,Senior,27,3,59504,1,4,No,No,No,25,Low Risk
+1938,Customer Support,Washington,Mid,42,4,146116,3,4,No,Yes,No,0,Low Risk
+1939,Customer Support,Remote,Mid,37,2,67146,1,2,Yes,No,Yes,85,High Risk
+1940,Sales,Texas,Mid,38,8,70297,3,2,No,No,No,25,Low Risk
+1941,HR,New York,Senior,30,12,116394,3,3,No,Yes,No,0,Low Risk
+1942,Customer Support,Remote,Senior,30,4,157173,1,4,No,No,No,25,Low Risk
+1943,Sales,Virginia,Entry,27,1,155942,5,1,No,No,Yes,40,Medium Risk
+1944,Finance,Washington,Mid,58,10,98607,3,1,Yes,Yes,Yes,45,Medium Risk
+1945,Sales,Texas,Manager,47,2,46939,1,1,No,No,Yes,60,Medium Risk
+1946,Customer Support,New York,Senior,53,13,120467,5,3,No,No,No,5,Low Risk
+1947,Marketing,Remote,Manager,21,14,80715,3,3,No,Yes,No,0,Low Risk
+1948,Marketing,Remote,Senior,54,8,74460,5,5,Yes,Yes,No,25,Low Risk
+1949,Marketing,Texas,Mid,24,6,96576,4,1,No,Yes,No,20,Low Risk
+1950,Customer Support,Virginia,Mid,37,1,98222,4,1,No,Yes,No,35,Medium Risk
+1951,Marketing,Texas,Senior,24,8,42666,5,3,No,No,No,5,Low Risk
+1952,HR,Remote,Entry,46,13,92119,3,3,No,No,No,5,Low Risk
+1953,Finance,California,Mid,24,3,65321,1,5,No,Yes,Yes,20,Low Risk
+1954,Sales,New York,Senior,21,12,31779,2,5,Yes,No,No,50,Medium Risk
+1955,Sales,Texas,Entry,27,8,43186,1,2,Yes,Yes,Yes,65,High Risk
+1956,Customer Support,Remote,Senior,50,14,46459,2,4,Yes,Yes,Yes,45,Medium Risk
+1957,Marketing,Virginia,Mid,29,12,116246,2,1,No,Yes,Yes,40,Medium Risk
+1958,Marketing,Remote,Manager,55,1,117755,3,1,Yes,No,Yes,65,High Risk
+1959,Engineering,Virginia,Entry,28,14,35057,5,5,No,Yes,No,0,Low Risk
+1960,Finance,Texas,Entry,44,11,90663,1,5,No,Yes,No,20,Low Risk
+1961,HR,Virginia,Mid,39,9,48733,5,2,Yes,Yes,No,45,Medium Risk
+1962,Sales,Washington,Entry,56,15,49157,4,4,Yes,No,No,30,Low Risk
+1963,Engineering,Washington,Senior,47,11,65030,3,2,Yes,No,No,50,Medium Risk
+1964,Engineering,Washington,Senior,52,3,49613,3,4,No,Yes,No,0,Low Risk
+1965,Customer Support,California,Entry,34,4,138612,4,1,Yes,Yes,Yes,45,Medium Risk
+1966,Sales,Texas,Mid,38,1,145080,1,2,Yes,No,Yes,85,High Risk
+1967,Customer Support,Remote,Mid,48,9,113028,4,5,No,No,No,5,Low Risk
+1968,HR,Remote,Mid,49,0,116282,1,2,No,Yes,Yes,55,Medium Risk
+1969,Engineering,California,Manager,36,6,35188,2,2,Yes,No,Yes,70,High Risk
+1970,Engineering,Virginia,Senior,55,15,137106,3,1,No,No,Yes,25,Low Risk
+1971,Finance,California,Senior,51,9,158346,1,5,No,No,Yes,25,Low Risk
+1972,HR,Virginia,Senior,24,0,59680,5,5,No,No,No,20,Low Risk
+1973,Engineering,Virginia,Mid,57,15,133361,5,3,No,No,No,5,Low Risk
+1974,HR,New York,Manager,37,10,90119,3,3,Yes,No,No,30,Low Risk
+1975,Sales,Remote,Senior,59,10,132302,4,3,No,Yes,No,0,Low Risk
+1976,Marketing,Washington,Senior,46,7,104400,4,1,No,Yes,No,20,Low Risk
+1977,Engineering,Virginia,Senior,59,2,85718,1,2,Yes,No,Yes,85,High Risk
+1978,Finance,New York,Entry,24,13,66445,4,5,No,Yes,No,0,Low Risk
+1979,Sales,Remote,Senior,50,9,35796,3,5,No,No,No,5,Low Risk
+1980,HR,Washington,Entry,50,5,77218,1,2,Yes,No,Yes,70,High Risk
+1981,Customer Support,Virginia,Mid,42,6,69131,2,5,Yes,No,Yes,50,Medium Risk
+1982,Sales,Virginia,Mid,31,9,38123,4,2,No,No,No,25,Low Risk
+1983,Engineering,California,Manager,22,0,38222,4,1,Yes,Yes,Yes,60,Medium Risk
+1984,HR,California,Senior,32,13,54074,1,1,No,No,Yes,45,Medium Risk
+1985,Marketing,Remote,Senior,50,5,141958,5,1,Yes,No,No,50,Medium Risk
+1986,Sales,Washington,Senior,56,6,146088,4,2,Yes,Yes,No,45,Medium Risk
+1987,Engineering,Virginia,Mid,38,5,59825,3,2,No,No,No,25,Low Risk
+1988,Finance,Remote,Manager,46,3,66839,4,4,No,Yes,No,0,Low Risk
+1989,Customer Support,Remote,Mid,27,0,137112,2,5,No,No,No,40,Medium Risk
+1990,HR,Texas,Mid,21,10,157514,4,5,No,No,No,5,Low Risk
+1991,Sales,California,Entry,46,8,98322,5,4,Yes,Yes,No,25,Low Risk
+1992,Sales,Washington,Senior,43,3,86321,4,4,No,No,No,5,Low Risk
+1993,Marketing,Virginia,Senior,46,6,129174,1,1,No,No,No,45,Medium Risk
+1994,Marketing,Remote,Mid,26,6,132500,4,4,Yes,Yes,No,25,Low Risk
+1995,Finance,Virginia,Entry,26,1,140100,5,2,No,Yes,No,35,Medium Risk
+1996,Customer Support,Texas,Senior,28,0,55988,1,3,Yes,Yes,Yes,60,Medium Risk
+1997,Finance,Washington,Entry,44,7,65507,3,2,No,No,Yes,25,Low Risk
+1998,Engineering,Remote,Senior,42,7,129244,1,4,No,No,No,25,Low Risk
+1999,Engineering,Virginia,Manager,39,6,128644,2,5,No,No,No,25,Low Risk
+2000,Finance,California,Mid,57,13,155788,1,2,No,No,Yes,45,Medium Risk
+2001,Customer Support,Texas,Entry,38,14,125251,3,5,No,No,No,5,Low Risk
+2002,Finance,Washington,Senior,51,14,53806,4,2,Yes,Yes,Yes,45,Medium Risk
+2003,Customer Support,Texas,Senior,57,14,66901,1,5,No,No,Yes,25,Low Risk
+2004,Customer Support,California,Mid,50,14,47043,1,2,Yes,Yes,Yes,65,High Risk
+2005,HR,Washington,Manager,53,7,105761,1,5,No,Yes,Yes,20,Low Risk
+2006,Customer Support,Texas,Entry,30,15,39752,1,3,No,No,No,25,Low Risk
+2007,Marketing,New York,Mid,57,2,98993,3,1,No,Yes,No,35,Medium Risk
+2008,Customer Support,California,Senior,32,10,72616,5,2,Yes,No,Yes,50,Medium Risk
+2009,Customer Support,California,Senior,50,1,82127,5,3,No,No,No,20,Low Risk
+2010,Customer Support,California,Entry,47,6,104777,1,1,No,Yes,Yes,40,Medium Risk
+2011,Engineering,New York,Senior,59,7,30453,3,2,Yes,Yes,Yes,45,Medium Risk
+2012,Marketing,New York,Mid,29,0,105432,3,3,No,No,No,20,Low Risk
+2013,Marketing,Virginia,Mid,41,11,152872,1,3,Yes,No,Yes,50,Medium Risk
+2014,Finance,Remote,Entry,32,9,117362,2,3,No,Yes,No,20,Low Risk
+2015,HR,Texas,Senior,49,15,40976,1,4,Yes,Yes,Yes,45,Medium Risk
+2016,Customer Support,Virginia,Entry,53,8,144176,2,5,No,No,No,25,Low Risk
+2017,Sales,Texas,Mid,35,14,129122,1,1,Yes,No,Yes,70,High Risk
+2018,HR,Remote,Entry,22,12,100404,2,5,Yes,Yes,Yes,45,Medium Risk
+2019,HR,New York,Senior,59,14,111932,2,5,No,Yes,No,20,Low Risk
+2020,Marketing,Remote,Senior,38,10,127170,1,5,Yes,No,No,50,Medium Risk
+2021,HR,New York,Senior,23,3,107707,2,3,No,No,No,25,Low Risk
+2022,Customer Support,Remote,Entry,27,15,119647,4,5,Yes,No,Yes,30,Low Risk
+2023,Customer Support,Virginia,Mid,38,15,63688,5,4,No,No,No,5,Low Risk
+2024,Engineering,Washington,Mid,58,13,116840,3,2,No,No,No,25,Low Risk
+2025,Customer Support,Virginia,Senior,57,11,147106,2,3,Yes,Yes,No,45,Medium Risk
+2026,Customer Support,Texas,Manager,53,13,137810,2,1,Yes,No,No,70,High Risk
+2027,Marketing,Virginia,Entry,51,3,134779,3,2,No,Yes,No,20,Low Risk
+2028,Customer Support,California,Senior,31,2,123789,2,2,No,No,Yes,60,Medium Risk
+2029,Engineering,Texas,Entry,24,5,126516,3,2,No,No,No,25,Low Risk
+2030,Sales,Remote,Mid,38,0,32017,1,5,No,Yes,No,35,Medium Risk
+2031,Marketing,Texas,Entry,24,5,37957,4,5,No,No,No,5,Low Risk
+2032,Sales,Washington,Mid,54,1,144534,4,3,Yes,No,Yes,45,Medium Risk
+2033,Marketing,New York,Mid,49,8,137724,5,5,Yes,Yes,No,25,Low Risk
+2034,Finance,Remote,Mid,44,1,34792,2,5,Yes,No,Yes,65,High Risk
+2035,HR,Texas,Mid,42,6,85982,5,5,Yes,Yes,No,25,Low Risk
+2036,Finance,Remote,Senior,22,11,43237,1,3,Yes,Yes,Yes,45,Medium Risk
+2037,Customer Support,Remote,Mid,26,0,81586,4,3,No,No,No,20,Low Risk
+2038,Sales,Remote,Entry,45,11,111787,1,4,No,Yes,No,20,Low Risk
+2039,Customer Support,New York,Senior,41,6,49252,1,4,No,No,No,25,Low Risk
+2040,HR,Virginia,Entry,36,4,40707,2,4,Yes,Yes,No,45,Medium Risk
+2041,Marketing,Remote,Mid,51,7,64206,1,4,No,No,No,25,Low Risk
+2042,HR,California,Senior,34,3,124276,4,2,No,No,No,25,Low Risk
+2043,Engineering,Washington,Mid,59,14,33543,5,2,No,Yes,No,20,Low Risk
+2044,HR,New York,Entry,48,11,74135,4,4,Yes,Yes,No,25,Low Risk
+2045,Engineering,Texas,Mid,52,14,146469,2,4,Yes,No,Yes,50,Medium Risk
+2046,HR,New York,Manager,48,9,143824,4,1,Yes,No,Yes,50,Medium Risk
+2047,Engineering,Texas,Mid,29,6,134647,3,2,Yes,Yes,No,45,Medium Risk
+2048,Sales,New York,Senior,42,5,65031,5,1,No,No,No,25,Low Risk
+2049,Customer Support,Texas,Mid,52,4,72929,3,1,Yes,Yes,Yes,45,Medium Risk
+2050,Customer Support,Remote,Entry,25,3,95747,3,5,Yes,Yes,No,25,Low Risk
+2051,Finance,Virginia,Mid,43,14,87851,2,3,No,No,No,25,Low Risk
+2052,Customer Support,Texas,Senior,25,6,85311,1,2,No,Yes,No,40,Medium Risk
+2053,Marketing,Texas,Entry,52,11,142113,3,4,No,No,No,5,Low Risk
+2054,HR,California,Entry,30,15,135331,4,4,No,No,No,5,Low Risk
+2055,Finance,Texas,Entry,59,4,95867,1,3,No,No,No,25,Low Risk
+2056,Marketing,California,Mid,35,4,118780,4,2,Yes,No,No,50,Medium Risk
+2057,Marketing,Washington,Manager,27,14,87196,4,4,No,No,No,5,Low Risk
+2058,Engineering,Remote,Entry,49,0,103705,1,4,No,No,Yes,40,Medium Risk
+2059,Customer Support,California,Mid,23,1,87894,1,5,No,No,No,40,Medium Risk
+2060,Sales,Virginia,Entry,39,4,117640,4,1,Yes,No,Yes,50,Medium Risk
+2061,Sales,Remote,Manager,30,12,137437,2,4,No,No,Yes,25,Low Risk
+2062,Finance,California,Entry,48,2,44591,5,2,Yes,Yes,Yes,60,Medium Risk
+2063,Sales,Remote,Mid,49,13,127247,5,3,No,No,No,5,Low Risk
+2064,HR,Remote,Senior,35,12,78893,2,5,Yes,No,No,50,Medium Risk
+2065,Sales,Remote,Senior,55,1,30727,1,2,Yes,No,Yes,85,High Risk
+2066,Finance,Washington,Mid,26,13,51359,4,5,No,No,No,5,Low Risk
+2067,Sales,Virginia,Mid,32,13,73822,5,1,No,No,No,25,Low Risk
+2068,HR,New York,Mid,58,3,131547,4,4,No,No,No,5,Low Risk
+2069,Engineering,New York,Entry,33,3,145336,2,2,Yes,Yes,Yes,65,High Risk
+2070,Finance,California,Entry,49,3,133399,4,3,Yes,No,No,30,Low Risk
+2071,Engineering,Remote,Mid,39,3,142113,2,1,No,Yes,Yes,40,Medium Risk
+2072,Engineering,California,Entry,23,2,118534,1,1,No,No,Yes,60,Medium Risk
+2073,Engineering,Washington,Entry,28,12,40929,2,5,No,No,No,25,Low Risk
+2074,Marketing,Washington,Senior,28,11,158588,2,1,No,Yes,No,40,Medium Risk
+2075,Customer Support,Texas,Manager,40,6,90091,5,2,No,Yes,No,20,Low Risk
+2076,Marketing,Washington,Mid,24,8,110378,4,5,No,No,No,5,Low Risk
+2077,Customer Support,Texas,Entry,41,11,53519,5,1,No,Yes,No,20,Low Risk
+2078,Engineering,Virginia,Entry,23,4,47393,3,3,No,Yes,No,0,Low Risk
+2079,Finance,California,Manager,28,3,64318,2,2,Yes,No,Yes,70,High Risk
+2080,Customer Support,Virginia,Entry,43,10,104531,3,3,No,Yes,No,0,Low Risk
+2081,HR,Washington,Entry,36,1,124192,5,3,No,No,No,20,Low Risk
+2082,HR,Virginia,Mid,33,1,77934,4,5,No,No,No,20,Low Risk
+2083,Sales,Virginia,Mid,23,4,135796,5,4,No,Yes,No,0,Low Risk
+2084,Customer Support,Virginia,Mid,29,6,140805,4,5,Yes,Yes,No,25,Low Risk
+2085,Finance,Washington,Entry,34,9,111103,4,2,No,No,No,25,Low Risk
+2086,Marketing,Remote,Entry,33,15,58840,1,2,No,No,Yes,45,Medium Risk
+2087,Engineering,Virginia,Manager,27,9,148089,2,5,Yes,No,No,50,Medium Risk
+2088,Sales,Texas,Entry,35,8,119367,5,4,Yes,No,No,30,Low Risk
+2089,HR,Washington,Senior,27,12,43265,4,5,Yes,No,No,30,Low Risk
+2090,Marketing,Virginia,Senior,58,6,35424,5,2,No,Yes,No,20,Low Risk
+2091,Marketing,Remote,Mid,54,4,50625,5,4,No,Yes,No,0,Low Risk
+2092,Engineering,Washington,Mid,42,9,109622,4,2,No,Yes,No,20,Low Risk
+2093,Customer Support,New York,Entry,44,9,59187,3,4,Yes,Yes,No,25,Low Risk
+2094,HR,Remote,Mid,57,9,65929,2,4,No,No,No,25,Low Risk
+2095,Finance,Texas,Senior,21,5,91892,2,5,Yes,No,Yes,50,Medium Risk
+2096,Marketing,Virginia,Manager,30,10,50539,1,5,Yes,Yes,Yes,45,Medium Risk
+2097,Engineering,New York,Entry,36,11,86630,1,5,No,No,No,25,Low Risk
+2098,Finance,New York,Entry,28,15,120639,1,4,No,Yes,No,20,Low Risk
+2099,Customer Support,Washington,Manager,45,2,123410,2,4,Yes,Yes,Yes,60,Medium Risk
+2100,HR,New York,Senior,32,4,39215,3,2,Yes,No,Yes,50,Medium Risk
+2101,Customer Support,Texas,Senior,45,7,69385,2,3,Yes,Yes,Yes,45,Medium Risk
+2102,Marketing,Texas,Entry,37,0,117580,2,5,No,Yes,No,35,Medium Risk
+2103,Finance,California,Mid,46,11,107462,2,2,No,Yes,Yes,40,Medium Risk
+2104,Finance,Texas,Senior,34,0,143396,2,2,No,Yes,Yes,55,Medium Risk
+2105,Finance,Remote,Senior,56,6,127037,3,1,No,No,Yes,25,Low Risk
+2106,Marketing,New York,Mid,43,13,125310,1,5,No,No,Yes,25,Low Risk
+2107,Marketing,Texas,Entry,26,4,55008,5,2,Yes,Yes,Yes,45,Medium Risk
+2108,Customer Support,Washington,Mid,25,13,78928,1,1,No,Yes,No,40,Medium Risk
+2109,Sales,California,Entry,45,4,113096,1,5,No,No,No,25,Low Risk
+2110,Customer Support,New York,Mid,38,0,119876,5,4,Yes,No,Yes,45,Medium Risk
+2111,HR,California,Manager,33,8,54976,2,1,Yes,Yes,Yes,65,High Risk
+2112,Engineering,New York,Mid,34,0,143942,3,4,Yes,Yes,No,40,Medium Risk
+2113,Finance,Washington,Senior,48,4,154984,3,3,Yes,No,No,30,Low Risk
+2114,Sales,California,Entry,38,9,57626,1,3,No,No,No,25,Low Risk
+2115,Engineering,Virginia,Senior,48,8,128256,5,3,No,Yes,No,0,Low Risk
+2116,Sales,Remote,Manager,47,13,130537,4,3,No,No,No,5,Low Risk
+2117,Customer Support,Remote,Entry,52,14,89789,2,2,No,Yes,Yes,40,Medium Risk
+2118,Marketing,New York,Entry,29,3,34700,1,3,No,No,No,25,Low Risk
+2119,Finance,Virginia,Mid,52,12,139331,3,2,No,No,No,25,Low Risk
+2120,Customer Support,California,Entry,40,7,93645,5,2,Yes,No,Yes,50,Medium Risk
+2121,Engineering,Virginia,Senior,48,5,150594,5,5,Yes,No,Yes,30,Low Risk
+2122,Engineering,Virginia,Manager,53,10,103396,1,2,No,Yes,No,40,Medium Risk
+2123,Engineering,California,Mid,24,14,37526,4,2,Yes,Yes,Yes,45,Medium Risk
+2124,Engineering,Washington,Entry,54,2,133863,3,3,Yes,No,No,45,Medium Risk
+2125,Engineering,Virginia,Mid,23,3,69500,1,2,No,Yes,No,40,Medium Risk
+2126,Sales,Virginia,Senior,46,1,98049,4,4,No,Yes,No,15,Low Risk
+2127,Customer Support,Washington,Entry,28,0,103366,5,3,Yes,Yes,Yes,40,Medium Risk
+2128,Finance,Virginia,Mid,26,12,110317,2,1,No,No,Yes,45,Medium Risk
+2129,Marketing,Virginia,Mid,36,13,89117,3,3,No,No,No,5,Low Risk
+2130,Marketing,Virginia,Mid,44,7,86096,3,2,Yes,Yes,Yes,45,Medium Risk
+2131,Customer Support,Remote,Entry,59,0,37910,4,4,Yes,Yes,No,40,Medium Risk
+2132,Customer Support,Texas,Senior,50,13,111383,1,3,No,No,No,25,Low Risk
+2133,Marketing,Washington,Entry,33,12,101185,5,4,Yes,No,No,30,Low Risk
+2134,Marketing,Virginia,Entry,25,10,80248,4,1,Yes,No,Yes,50,Medium Risk
+2135,Sales,Remote,Senior,45,0,104656,2,1,No,No,Yes,60,Medium Risk
+2136,HR,Washington,Senior,40,3,31951,2,5,No,No,No,25,Low Risk
+2137,Finance,New York,Entry,38,9,95212,2,5,Yes,Yes,Yes,45,Medium Risk
+2138,Engineering,New York,Entry,38,11,105701,4,3,Yes,No,Yes,30,Low Risk
+2139,HR,Virginia,Entry,22,9,109888,5,5,Yes,Yes,No,25,Low Risk
+2140,Customer Support,Remote,Entry,30,14,105282,3,4,No,Yes,No,0,Low Risk
+2141,Marketing,Remote,Entry,32,5,139274,1,5,Yes,No,No,50,Medium Risk
+2142,HR,Washington,Entry,33,8,124533,3,4,No,Yes,No,0,Low Risk
+2143,Finance,Washington,Mid,31,0,71954,5,5,No,Yes,No,15,Low Risk
+2144,Customer Support,Remote,Senior,39,6,119719,3,5,Yes,Yes,No,25,Low Risk
+2145,Engineering,Washington,Mid,55,9,38804,4,5,No,No,No,5,Low Risk
+2146,Engineering,Remote,Senior,59,10,122705,2,2,No,Yes,Yes,40,Medium Risk
+2147,Finance,Texas,Entry,46,4,30595,5,2,No,No,No,25,Low Risk
+2148,Finance,Remote,Manager,34,11,59592,5,5,Yes,No,No,30,Low Risk
+2149,Marketing,New York,Senior,44,14,70643,3,4,No,No,No,5,Low Risk
+2150,Engineering,Washington,Senior,21,15,153721,4,3,No,Yes,No,0,Low Risk
+2151,Customer Support,Remote,Senior,42,7,92665,3,1,No,No,No,25,Low Risk
+2152,HR,Remote,Manager,43,13,50823,3,2,Yes,Yes,Yes,45,Medium Risk
+2153,Customer Support,Washington,Mid,39,6,35972,5,5,No,Yes,No,0,Low Risk
+2154,Sales,Texas,Entry,38,3,45882,3,1,Yes,Yes,Yes,45,Medium Risk
+2155,Sales,Texas,Mid,32,3,96394,2,2,Yes,No,Yes,70,High Risk
+2156,Finance,Washington,Senior,48,5,101055,3,3,No,Yes,No,0,Low Risk
+2157,Marketing,California,Senior,48,5,53769,2,4,No,Yes,No,20,Low Risk
+2158,Sales,Washington,Mid,53,8,55020,5,5,No,Yes,No,0,Low Risk
+2159,Engineering,Washington,Entry,39,11,72748,4,3,No,Yes,No,0,Low Risk
+2160,Customer Support,Texas,Mid,48,4,132621,2,2,No,No,Yes,45,Medium Risk
+2161,Customer Support,Texas,Manager,57,7,115374,4,5,No,No,No,5,Low Risk
+2162,Finance,Washington,Mid,46,4,74912,4,1,No,No,No,25,Low Risk
+2163,HR,Washington,Mid,55,1,42879,2,4,No,Yes,No,35,Medium Risk
+2164,Finance,Washington,Entry,54,14,63798,5,2,No,Yes,Yes,20,Low Risk
+2165,HR,Texas,Mid,55,5,137791,1,4,No,No,No,25,Low Risk
+2166,Finance,Washington,Senior,36,8,119826,4,5,No,Yes,No,0,Low Risk
+2167,Finance,Washington,Senior,58,12,76073,4,3,No,No,No,5,Low Risk
+2168,Finance,Virginia,Senior,33,2,105791,5,4,No,Yes,No,15,Low Risk
+2169,HR,California,Mid,43,15,96983,5,1,Yes,No,Yes,50,Medium Risk
+2170,HR,New York,Mid,42,0,73005,3,2,Yes,Yes,No,60,Medium Risk
+2171,Finance,California,Entry,36,0,124731,5,1,No,Yes,No,35,Medium Risk
+2172,Sales,Virginia,Senior,48,12,32850,4,4,Yes,No,No,30,Low Risk
+2173,Marketing,New York,Mid,55,2,58400,2,3,Yes,No,Yes,65,High Risk
+2174,Marketing,Washington,Mid,28,9,154948,1,3,No,Yes,No,20,Low Risk
+2175,Marketing,Virginia,Mid,42,4,41953,3,1,Yes,No,Yes,50,Medium Risk
+2176,HR,Washington,Manager,41,2,136410,2,5,Yes,No,No,65,High Risk
+2177,HR,Texas,Entry,46,8,155155,1,5,No,Yes,No,20,Low Risk
+2178,Sales,Remote,Senior,41,7,53535,1,3,No,Yes,Yes,20,Low Risk
+2179,Marketing,Virginia,Entry,45,2,105536,1,1,No,No,No,60,Medium Risk
+2180,Marketing,Texas,Mid,21,8,105039,2,1,No,Yes,No,40,Medium Risk
+2181,Finance,Virginia,Entry,26,14,151640,3,1,No,No,No,25,Low Risk
+2182,HR,Virginia,Mid,43,12,111029,3,4,No,Yes,No,0,Low Risk
+2183,Marketing,Texas,Mid,43,5,34055,1,5,No,Yes,No,20,Low Risk
+2184,Customer Support,New York,Entry,43,12,68170,2,5,Yes,Yes,Yes,45,Medium Risk
+2185,Sales,California,Mid,52,6,155331,1,4,Yes,No,Yes,50,Medium Risk
+2186,Customer Support,Washington,Manager,50,3,127944,5,2,No,Yes,No,20,Low Risk
+2187,Customer Support,Virginia,Entry,33,3,137585,3,4,No,Yes,No,0,Low Risk
+2188,Sales,Washington,Senior,38,11,129976,4,1,No,Yes,Yes,20,Low Risk
+2189,Customer Support,Remote,Mid,43,12,58251,1,4,No,No,No,25,Low Risk
+2190,Marketing,Texas,Senior,35,1,34532,5,1,No,Yes,No,35,Medium Risk
+2191,HR,Washington,Entry,53,4,34924,3,3,No,No,No,5,Low Risk
+2192,Sales,Texas,Entry,41,7,78037,2,1,No,Yes,Yes,40,Medium Risk
+2193,Finance,Washington,Entry,59,6,108082,3,5,Yes,Yes,No,25,Low Risk
+2194,Customer Support,California,Entry,43,15,122115,2,4,No,No,No,25,Low Risk
+2195,Sales,California,Entry,47,6,101621,2,1,Yes,No,Yes,70,High Risk
+2196,Engineering,California,Senior,38,5,107926,1,2,No,No,No,45,Medium Risk
+2197,Engineering,California,Senior,44,2,108816,1,3,No,No,No,40,Medium Risk
+2198,HR,California,Senior,27,4,119654,3,2,No,No,No,25,Low Risk
+2199,Marketing,California,Senior,40,12,100400,5,2,No,No,Yes,25,Low Risk
+2200,HR,Texas,Entry,47,0,137620,3,2,No,No,Yes,40,Medium Risk
+2201,HR,Virginia,Entry,26,6,129525,4,3,No,Yes,No,0,Low Risk
+2202,HR,Washington,Mid,47,8,131164,2,3,No,No,No,25,Low Risk
+2203,HR,California,Entry,29,0,122385,2,3,No,No,No,40,Medium Risk
+2204,Finance,Texas,Mid,51,12,123102,1,3,No,No,No,25,Low Risk
+2205,Finance,Texas,Mid,41,1,40702,5,2,No,Yes,No,35,Medium Risk
+2206,Sales,Texas,Mid,46,2,136732,1,5,Yes,Yes,Yes,60,Medium Risk
+2207,Engineering,Virginia,Mid,33,2,45385,4,5,No,No,No,20,Low Risk
+2208,HR,Washington,Senior,43,7,39336,3,3,No,Yes,No,0,Low Risk
+2209,Sales,Virginia,Senior,40,6,95421,3,4,No,Yes,No,0,Low Risk
+2210,Engineering,New York,Mid,57,5,61225,5,1,No,Yes,No,20,Low Risk
+2211,Customer Support,Texas,Manager,48,14,66021,1,4,No,No,No,25,Low Risk
+2212,Marketing,New York,Manager,37,9,33782,1,4,No,Yes,No,20,Low Risk
+2213,Finance,Remote,Mid,48,9,118877,4,4,No,No,No,5,Low Risk
+2214,Customer Support,California,Mid,22,10,145454,3,5,No,Yes,No,0,Low Risk
+2215,Engineering,California,Mid,45,3,147369,1,1,Yes,No,Yes,70,High Risk
+2216,Customer Support,Virginia,Manager,26,8,119630,5,4,No,No,No,5,Low Risk
+2217,Marketing,Washington,Senior,31,0,79111,3,3,Yes,Yes,No,40,Medium Risk
+2218,Engineering,New York,Entry,58,10,119402,4,5,Yes,No,No,30,Low Risk
+2219,Customer Support,Washington,Mid,26,14,149774,5,3,No,Yes,No,0,Low Risk
+2220,Finance,Virginia,Mid,31,1,152652,2,3,Yes,Yes,Yes,60,Medium Risk
+2221,Finance,California,Mid,34,14,114585,4,4,No,No,No,5,Low Risk
+2222,Sales,Washington,Entry,22,13,72719,5,3,No,Yes,No,0,Low Risk
+2223,Customer Support,Washington,Senior,23,3,126528,1,1,No,Yes,Yes,40,Medium Risk
+2224,HR,California,Senior,55,2,79037,2,3,No,Yes,No,35,Medium Risk
+2225,Customer Support,New York,Senior,53,0,110103,4,4,Yes,Yes,No,40,Medium Risk
+2226,Engineering,California,Senior,44,4,139987,1,3,No,No,No,25,Low Risk
+2227,Engineering,Washington,Senior,39,6,155695,2,5,Yes,Yes,No,45,Medium Risk
+2228,Customer Support,New York,Mid,38,1,33513,3,5,No,No,No,20,Low Risk
+2229,Marketing,New York,Mid,44,4,145183,1,5,No,No,Yes,25,Low Risk
+2230,Finance,California,Entry,55,5,43335,5,2,No,Yes,Yes,20,Low Risk
+2231,Engineering,Washington,Senior,21,10,74140,4,5,No,Yes,No,0,Low Risk
+2232,Finance,Virginia,Entry,56,6,134126,2,5,No,No,No,25,Low Risk
+2233,Engineering,Washington,Senior,45,0,110373,1,2,No,Yes,Yes,55,Medium Risk
+2234,Sales,Texas,Entry,54,6,107658,3,5,No,Yes,No,0,Low Risk
+2235,HR,Remote,Entry,45,3,64840,4,4,Yes,Yes,No,25,Low Risk
+2236,Engineering,Virginia,Entry,36,7,61007,4,5,No,No,No,5,Low Risk
+2237,Finance,New York,Entry,54,12,86947,1,5,No,No,No,25,Low Risk
+2238,Sales,Virginia,Senior,49,3,136833,3,2,No,Yes,No,20,Low Risk
+2239,Engineering,New York,Senior,39,5,148637,2,4,Yes,Yes,Yes,45,Medium Risk
+2240,Marketing,New York,Mid,43,8,150721,1,3,No,No,No,25,Low Risk
+2241,HR,Virginia,Entry,39,4,123220,2,1,Yes,No,Yes,70,High Risk
+2242,Engineering,New York,Entry,45,13,56393,4,4,Yes,No,No,30,Low Risk
+2243,Sales,New York,Entry,36,11,87480,2,3,No,No,No,25,Low Risk
+2244,Marketing,Texas,Entry,29,3,147243,3,4,No,Yes,No,0,Low Risk
+2245,Customer Support,Washington,Senior,21,7,118290,5,3,No,No,No,5,Low Risk
+2246,Sales,Washington,Entry,39,12,116335,3,3,No,Yes,No,0,Low Risk
+2247,Sales,Remote,Mid,53,8,134263,2,4,No,Yes,No,20,Low Risk
+2248,Marketing,Remote,Entry,54,3,39107,1,2,Yes,No,Yes,70,High Risk
+2249,Sales,Texas,Entry,36,2,158181,4,4,No,Yes,No,15,Low Risk
+2250,Marketing,Remote,Mid,38,7,35993,5,4,Yes,No,No,30,Low Risk
+2251,Engineering,Virginia,Mid,54,13,126341,1,3,No,Yes,No,20,Low Risk
+2252,Marketing,California,Entry,45,4,123650,1,1,Yes,No,Yes,70,High Risk
+2253,Marketing,California,Entry,26,1,133325,3,3,Yes,No,No,45,Medium Risk
+2254,HR,California,Mid,41,9,154980,2,5,No,Yes,Yes,20,Low Risk
+2255,Marketing,Texas,Entry,26,8,147595,3,4,Yes,No,No,30,Low Risk
+2256,Marketing,Texas,Entry,52,2,82066,2,4,Yes,Yes,Yes,60,Medium Risk
+2257,Customer Support,New York,Manager,59,11,141850,3,2,No,No,Yes,25,Low Risk
+2258,Engineering,California,Mid,51,1,72942,1,3,Yes,No,Yes,65,High Risk
+2259,HR,Virginia,Mid,30,0,46138,4,2,Yes,No,Yes,65,High Risk
+2260,Customer Support,Remote,Mid,50,13,148558,2,4,No,No,No,25,Low Risk
+2261,Finance,Virginia,Mid,38,7,157408,5,3,No,Yes,No,0,Low Risk
+2262,Engineering,Remote,Mid,44,10,74527,5,3,No,Yes,No,0,Low Risk
+2263,Engineering,California,Senior,29,2,39190,1,5,No,Yes,Yes,35,Medium Risk
+2264,Finance,California,Senior,51,6,122259,3,5,No,No,No,5,Low Risk
+2265,Marketing,California,Entry,35,0,149773,3,1,No,No,No,40,Medium Risk
+2266,Customer Support,Texas,Mid,24,0,108422,1,5,No,No,No,40,Medium Risk
+2267,Sales,Remote,Mid,29,14,85698,5,3,Yes,Yes,No,25,Low Risk
+2268,HR,Texas,Senior,29,15,112315,5,5,No,No,No,5,Low Risk
+2269,Sales,Texas,Mid,46,11,123710,3,1,No,Yes,No,20,Low Risk
+2270,Finance,Washington,Mid,24,8,59086,2,4,No,No,No,25,Low Risk
+2271,Engineering,Virginia,Entry,37,14,47322,4,5,Yes,No,Yes,30,Low Risk
+2272,Engineering,Virginia,Mid,36,11,138132,2,3,Yes,Yes,No,45,Medium Risk
+2273,HR,New York,Entry,35,7,155604,5,4,No,Yes,No,0,Low Risk
+2274,Engineering,Texas,Mid,55,11,130814,2,3,Yes,Yes,Yes,45,Medium Risk
+2275,Engineering,Remote,Entry,25,12,149324,4,4,No,No,No,5,Low Risk
+2276,HR,Washington,Senior,25,2,113569,2,3,No,No,Yes,40,Medium Risk
+2277,Customer Support,Washington,Entry,40,5,115610,2,5,No,No,No,25,Low Risk
+2278,Customer Support,Virginia,Mid,35,10,158921,2,5,Yes,Yes,Yes,45,Medium Risk
+2279,HR,Texas,Senior,38,2,33435,2,1,No,No,Yes,60,Medium Risk
+2280,Finance,New York,Entry,22,12,131505,1,4,No,No,Yes,25,Low Risk
+2281,Engineering,Texas,Mid,49,11,83331,5,1,No,Yes,Yes,20,Low Risk
+2282,Engineering,California,Mid,33,3,58942,4,2,Yes,No,No,50,Medium Risk
+2283,Finance,Texas,Entry,24,0,89635,5,5,Yes,Yes,Yes,40,Medium Risk
+2284,Customer Support,California,Senior,30,4,59059,1,4,No,No,No,25,Low Risk
+2285,Marketing,California,Entry,51,0,87557,1,1,Yes,No,Yes,85,High Risk
+2286,Marketing,New York,Mid,28,12,143457,1,1,No,Yes,No,40,Medium Risk
+2287,Marketing,Remote,Mid,23,0,82389,1,2,No,No,No,60,Medium Risk
+2288,Customer Support,Virginia,Mid,29,9,83014,2,1,No,No,Yes,45,Medium Risk
+2289,Customer Support,Texas,Senior,50,14,62826,5,3,No,Yes,No,0,Low Risk
+2290,Finance,California,Entry,31,10,60297,3,5,Yes,No,Yes,30,Low Risk
+2291,Engineering,Texas,Entry,55,10,73890,4,1,Yes,No,No,50,Medium Risk
+2292,Finance,Remote,Senior,57,15,51322,1,1,Yes,Yes,Yes,65,High Risk
+2293,Finance,Virginia,Mid,33,13,65739,5,2,Yes,Yes,Yes,45,Medium Risk
+2294,Customer Support,Remote,Senior,56,6,39719,1,3,No,Yes,Yes,20,Low Risk
+2295,Marketing,Virginia,Senior,33,11,109553,1,1,Yes,Yes,No,65,High Risk
+2296,Sales,Washington,Senior,32,5,38314,1,5,No,Yes,No,20,Low Risk
+2297,Engineering,Virginia,Mid,57,1,123831,1,5,No,Yes,Yes,35,Medium Risk
+2298,Customer Support,New York,Mid,30,15,105164,1,1,No,Yes,Yes,40,Medium Risk
+2299,Marketing,Remote,Senior,29,13,137658,4,3,Yes,No,No,30,Low Risk
+2300,Sales,California,Mid,27,15,107028,5,5,Yes,Yes,No,25,Low Risk
+2301,Sales,Washington,Entry,22,10,66113,1,5,Yes,No,Yes,50,Medium Risk
+2302,Customer Support,New York,Senior,43,11,147174,1,3,No,No,No,25,Low Risk
+2303,HR,Texas,Senior,59,1,45357,1,3,Yes,No,No,65,High Risk
+2304,Engineering,Remote,Mid,59,10,128865,1,1,No,Yes,Yes,40,Medium Risk
+2305,Sales,California,Entry,41,6,50365,2,4,No,No,No,25,Low Risk
+2306,Customer Support,Virginia,Mid,43,0,69029,2,2,No,No,No,60,Medium Risk
+2307,Customer Support,California,Senior,49,12,31737,3,4,No,No,No,5,Low Risk
+2308,Marketing,Texas,Manager,34,1,104632,1,4,Yes,Yes,Yes,60,Medium Risk
+2309,HR,Washington,Entry,46,11,115474,3,5,No,Yes,No,0,Low Risk
+2310,Engineering,Washington,Entry,25,7,108218,4,3,No,No,No,5,Low Risk
+2311,Finance,Remote,Senior,51,5,154606,3,5,No,Yes,No,0,Low Risk
+2312,Marketing,Washington,Mid,45,14,57499,5,2,No,No,Yes,25,Low Risk
+2313,Sales,Remote,Mid,51,13,140027,2,1,No,Yes,Yes,40,Medium Risk
+2314,Sales,Remote,Manager,40,1,140402,2,2,Yes,No,Yes,85,High Risk
+2315,Marketing,Remote,Entry,37,6,158692,1,5,Yes,No,Yes,50,Medium Risk
+2316,Customer Support,Virginia,Mid,22,3,137430,1,5,Yes,No,No,50,Medium Risk
+2317,Sales,New York,Entry,45,1,76157,4,5,Yes,No,No,45,Medium Risk
+2318,HR,Remote,Mid,33,11,86247,4,5,Yes,No,No,30,Low Risk
+2319,Engineering,Remote,Senior,59,5,158411,5,4,No,No,No,5,Low Risk
+2320,HR,New York,Mid,48,10,71034,1,1,No,No,Yes,45,Medium Risk
+2321,Sales,California,Manager,26,14,30294,1,4,No,No,No,25,Low Risk
+2322,Finance,Remote,Mid,23,8,128072,4,5,No,No,No,5,Low Risk
+2323,Engineering,Virginia,Mid,55,10,54596,4,3,No,Yes,No,0,Low Risk
+2324,Engineering,Washington,Entry,38,8,128185,4,4,Yes,No,No,30,Low Risk
+2325,Marketing,Washington,Mid,31,13,41434,2,5,Yes,Yes,Yes,45,Medium Risk
+2326,Marketing,Texas,Mid,40,7,88382,3,5,No,Yes,No,0,Low Risk
+2327,Finance,Texas,Entry,25,14,68098,3,1,Yes,No,Yes,50,Medium Risk
+2328,Customer Support,Washington,Mid,39,2,34655,1,2,Yes,No,Yes,85,High Risk
+2329,Engineering,Washington,Mid,42,2,113029,2,4,Yes,No,Yes,65,High Risk
+2330,Finance,Virginia,Senior,39,1,76228,4,4,Yes,Yes,No,40,Medium Risk
+2331,Marketing,New York,Senior,36,4,33771,1,4,No,Yes,Yes,20,Low Risk
+2332,Marketing,Texas,Senior,44,13,104099,2,5,No,No,No,25,Low Risk
+2333,Engineering,New York,Entry,24,11,150811,5,1,No,Yes,No,20,Low Risk
+2334,HR,Virginia,Entry,35,13,86799,2,5,No,No,Yes,25,Low Risk
+2335,Sales,Washington,Senior,45,3,92257,1,5,No,Yes,No,20,Low Risk
+2336,Marketing,Remote,Mid,55,6,47558,3,3,Yes,Yes,No,25,Low Risk
+2337,Customer Support,New York,Entry,34,3,129468,4,1,Yes,No,No,50,Medium Risk
+2338,Customer Support,Washington,Senior,39,15,88436,5,4,Yes,Yes,No,25,Low Risk
+2339,Marketing,Washington,Senior,58,8,137779,2,2,No,Yes,Yes,40,Medium Risk
+2340,HR,California,Mid,56,11,154891,1,4,No,Yes,Yes,20,Low Risk
+2341,HR,New York,Entry,27,11,153725,1,5,No,No,No,25,Low Risk
+2342,Finance,Remote,Senior,50,1,122103,4,1,Yes,No,No,65,High Risk
+2343,Customer Support,New York,Mid,39,10,153400,1,1,No,Yes,Yes,40,Medium Risk
+2344,Finance,Washington,Senior,45,13,62376,1,1,No,Yes,Yes,40,Medium Risk
+2345,Customer Support,Remote,Senior,36,5,149154,4,3,No,No,No,5,Low Risk
+2346,Sales,Virginia,Senior,28,14,117458,5,4,No,Yes,No,0,Low Risk
+2347,Sales,California,Mid,38,6,107924,3,3,No,No,No,5,Low Risk
+2348,Engineering,Washington,Entry,48,15,59332,3,2,No,Yes,No,20,Low Risk
+2349,Finance,Texas,Senior,36,3,76737,2,5,No,Yes,No,20,Low Risk
+2350,Marketing,Texas,Mid,39,12,119031,5,3,Yes,No,No,30,Low Risk
+2351,Finance,California,Senior,37,5,103970,2,3,No,Yes,No,20,Low Risk
+2352,Marketing,Virginia,Entry,33,6,81952,3,5,Yes,No,No,30,Low Risk
+2353,HR,Washington,Entry,27,3,50991,4,1,Yes,Yes,Yes,45,Medium Risk
+2354,Finance,New York,Senior,47,14,57472,1,5,No,Yes,Yes,20,Low Risk
+2355,HR,California,Senior,30,7,89946,3,4,No,No,No,5,Low Risk
+2356,Sales,Virginia,Manager,54,8,135566,5,5,Yes,Yes,No,25,Low Risk
+2357,Sales,New York,Senior,56,0,56849,3,1,No,No,Yes,40,Medium Risk
+2358,Engineering,Texas,Mid,45,6,31541,5,5,Yes,Yes,No,25,Low Risk
+2359,Finance,Texas,Senior,26,8,159237,5,3,No,No,No,5,Low Risk
+2360,HR,New York,Senior,44,14,32765,5,2,No,No,No,25,Low Risk
+2361,Marketing,California,Mid,38,11,73074,2,3,No,Yes,No,20,Low Risk
+2362,Sales,Texas,Mid,43,9,132795,4,2,No,No,No,25,Low Risk
+2363,Sales,Washington,Entry,26,4,59283,3,5,No,No,No,5,Low Risk
+2364,Marketing,Remote,Mid,49,11,131387,4,4,No,Yes,No,0,Low Risk
+2365,HR,New York,Senior,45,1,150044,1,5,Yes,No,Yes,65,High Risk
+2366,HR,New York,Entry,37,9,130161,3,1,No,No,Yes,25,Low Risk
+2367,Finance,Texas,Entry,44,5,30769,4,5,No,Yes,No,0,Low Risk
+2368,Finance,California,Mid,31,11,47806,4,2,No,Yes,Yes,20,Low Risk
+2369,Customer Support,Washington,Entry,46,11,120518,1,3,Yes,Yes,No,45,Medium Risk
+2370,Customer Support,California,Entry,54,6,32972,5,4,Yes,Yes,No,25,Low Risk
+2371,Engineering,Virginia,Mid,48,1,48256,3,5,Yes,No,No,45,Medium Risk
+2372,Sales,Virginia,Manager,23,1,133903,3,5,No,No,No,20,Low Risk
+2373,Finance,Remote,Mid,31,9,155574,1,3,No,No,Yes,25,Low Risk
+2374,HR,Texas,Entry,58,14,48653,5,4,Yes,Yes,No,25,Low Risk
+2375,Marketing,Texas,Entry,34,13,133579,3,5,No,Yes,No,0,Low Risk
+2376,HR,Texas,Senior,46,11,116669,3,5,No,No,No,5,Low Risk
+2377,Sales,Remote,Mid,41,9,69339,3,2,Yes,No,No,50,Medium Risk
+2378,Customer Support,Virginia,Senior,59,0,55757,5,2,No,No,Yes,40,Medium Risk
+2379,HR,California,Senior,50,3,133376,1,1,No,Yes,Yes,40,Medium Risk
+2380,Engineering,Remote,Senior,28,6,72399,3,3,No,Yes,No,0,Low Risk
+2381,Sales,Remote,Entry,40,13,74013,4,4,No,Yes,No,0,Low Risk
+2382,Customer Support,California,Senior,52,8,127605,5,5,Yes,No,No,30,Low Risk
+2383,Marketing,Texas,Entry,42,14,44706,2,5,No,Yes,Yes,20,Low Risk
+2384,Customer Support,Washington,Manager,27,2,68231,1,1,Yes,No,Yes,85,High Risk
+2385,Engineering,California,Mid,29,11,57909,4,5,Yes,No,Yes,30,Low Risk
+2386,Sales,Virginia,Mid,21,10,135754,3,3,No,Yes,No,0,Low Risk
+2387,Marketing,New York,Entry,49,6,155777,2,1,No,No,No,45,Medium Risk
+2388,Engineering,New York,Entry,28,6,106631,1,3,No,No,No,25,Low Risk
+2389,Customer Support,Remote,Senior,24,6,87572,5,1,Yes,No,Yes,50,Medium Risk
+2390,Engineering,New York,Entry,55,1,115879,2,5,No,Yes,Yes,35,Medium Risk
+2391,Sales,Washington,Mid,23,5,93767,2,1,No,Yes,No,40,Medium Risk
+2392,Finance,Texas,Entry,27,1,56469,4,2,No,Yes,No,35,Medium Risk
+2393,Engineering,Virginia,Senior,47,5,31313,1,4,No,Yes,No,20,Low Risk
+2394,Engineering,Washington,Senior,21,12,37847,4,5,No,No,No,5,Low Risk
+2395,Customer Support,Virginia,Senior,47,9,80222,4,4,No,No,No,5,Low Risk
+2396,Customer Support,Virginia,Senior,36,2,104702,3,5,Yes,Yes,No,40,Medium Risk
+2397,Marketing,Texas,Entry,58,13,39930,5,4,No,No,Yes,5,Low Risk
+2398,Customer Support,Remote,Entry,27,1,33285,2,2,Yes,No,Yes,85,High Risk
+2399,HR,New York,Senior,43,11,153637,1,4,Yes,Yes,No,45,Medium Risk
+2400,Sales,Texas,Mid,31,14,65863,5,1,Yes,Yes,Yes,45,Medium Risk
+2401,Sales,Washington,Mid,53,13,46704,5,4,Yes,No,No,30,Low Risk
+2402,Finance,Remote,Entry,56,5,48705,1,5,Yes,No,Yes,50,Medium Risk
+2403,Finance,Washington,Entry,57,1,30555,5,3,Yes,No,No,45,Medium Risk
+2404,Sales,Remote,Entry,37,4,51323,3,4,Yes,Yes,No,25,Low Risk
+2405,Finance,Washington,Senior,55,1,100968,5,4,No,Yes,Yes,15,Low Risk
+2406,Marketing,Texas,Entry,25,15,96922,3,4,Yes,Yes,No,25,Low Risk
+2407,Customer Support,Remote,Mid,52,2,83915,2,5,No,No,No,40,Medium Risk
+2408,Sales,Remote,Entry,23,2,139543,2,4,Yes,No,Yes,65,High Risk
+2409,Finance,Virginia,Senior,55,5,40619,4,5,No,Yes,No,0,Low Risk
+2410,Sales,Virginia,Mid,34,5,102390,3,5,No,No,No,5,Low Risk
+2411,HR,California,Senior,51,9,158918,2,3,No,No,No,25,Low Risk
+2412,Engineering,Washington,Senior,51,2,138500,5,1,No,No,No,40,Medium Risk
+2413,Customer Support,Virginia,Mid,37,2,144337,1,5,Yes,No,Yes,65,High Risk
+2414,Sales,California,Manager,44,12,89274,1,2,No,Yes,Yes,40,Medium Risk
+2415,Engineering,Virginia,Manager,43,11,103173,3,4,No,No,No,5,Low Risk
+2416,Finance,Washington,Senior,38,12,51225,4,2,No,Yes,No,20,Low Risk
+2417,Engineering,Remote,Senior,34,15,141266,5,4,No,Yes,No,0,Low Risk
+2418,Customer Support,New York,Entry,35,0,56739,3,3,Yes,No,No,45,Medium Risk
+2419,Sales,Washington,Mid,35,6,77708,1,5,No,No,No,25,Low Risk
+2420,HR,Texas,Entry,26,12,158041,3,1,Yes,No,Yes,50,Medium Risk
+2421,Finance,Virginia,Entry,47,7,83019,5,5,No,No,No,5,Low Risk
+2422,Sales,Virginia,Manager,35,1,106154,2,4,Yes,No,No,65,High Risk
+2423,Customer Support,Remote,Mid,56,3,132097,5,1,No,No,No,25,Low Risk
+2424,Finance,Texas,Senior,28,9,37373,2,5,Yes,Yes,Yes,45,Medium Risk
+2425,Marketing,Remote,Senior,35,6,65281,2,1,Yes,No,No,70,High Risk
+2426,Engineering,Texas,Senior,23,7,50187,2,4,No,No,No,25,Low Risk
+2427,Customer Support,New York,Manager,33,0,97863,3,3,No,No,No,20,Low Risk
+2428,Marketing,Virginia,Entry,54,3,127927,1,3,No,Yes,No,20,Low Risk
+2429,Sales,Virginia,Entry,44,5,137113,3,5,Yes,No,No,30,Low Risk
+2430,HR,New York,Mid,52,2,114085,1,2,Yes,No,Yes,85,High Risk
+2431,Finance,California,Entry,52,4,147996,5,4,No,No,No,5,Low Risk
+2432,Engineering,Remote,Entry,50,15,69220,4,5,No,No,No,5,Low Risk
+2433,Finance,New York,Mid,33,9,152755,5,5,No,Yes,No,0,Low Risk
+2434,Sales,Remote,Senior,21,8,37642,3,3,No,No,No,5,Low Risk
+2435,Finance,Washington,Mid,54,10,109971,3,1,No,No,Yes,25,Low Risk
+2436,Engineering,Virginia,Mid,35,12,85556,1,4,No,No,No,25,Low Risk
+2437,Sales,Remote,Senior,34,2,63760,3,1,No,No,No,40,Medium Risk
+2438,Finance,Texas,Entry,49,4,68192,2,4,No,No,No,25,Low Risk
+2439,HR,Remote,Entry,54,7,154257,3,2,No,No,No,25,Low Risk
+2440,Customer Support,Washington,Senior,38,5,34381,1,3,No,No,No,25,Low Risk
+2441,Sales,Virginia,Mid,27,3,126583,1,2,No,Yes,Yes,40,Medium Risk
+2442,Customer Support,New York,Senior,49,7,49558,2,5,Yes,No,No,50,Medium Risk
+2443,Sales,Washington,Entry,51,10,60782,1,3,Yes,Yes,No,45,Medium Risk
+2444,HR,Virginia,Senior,45,2,34782,4,5,Yes,Yes,No,40,Medium Risk
+2445,Customer Support,Remote,Mid,58,2,121417,5,2,No,No,No,40,Medium Risk
+2446,Marketing,California,Mid,34,3,84712,3,4,Yes,Yes,Yes,25,Low Risk
+2447,Engineering,California,Mid,28,8,135764,4,5,Yes,No,No,30,Low Risk
+2448,Marketing,Texas,Senior,47,4,124945,3,1,No,Yes,No,20,Low Risk
+2449,Finance,Virginia,Mid,22,7,49462,4,4,No,Yes,No,0,Low Risk
+2450,HR,California,Mid,37,15,90030,3,4,No,No,No,5,Low Risk
+2451,Marketing,New York,Manager,57,5,98519,2,2,No,Yes,Yes,40,Medium Risk
+2452,Sales,Virginia,Senior,34,2,86411,1,2,No,No,Yes,60,Medium Risk
+2453,Finance,New York,Mid,45,14,85206,1,3,No,Yes,No,20,Low Risk
+2454,Finance,New York,Senior,50,7,127469,2,3,No,Yes,No,20,Low Risk
+2455,Marketing,California,Mid,49,11,76950,4,1,No,Yes,No,20,Low Risk
+2456,Marketing,Virginia,Entry,40,8,32523,5,4,Yes,Yes,No,25,Low Risk
+2457,HR,Remote,Mid,41,7,90926,4,1,No,No,Yes,25,Low Risk
+2458,Engineering,Washington,Manager,42,12,39677,1,1,Yes,Yes,Yes,65,High Risk
+2459,Marketing,California,Manager,55,3,105828,5,2,Yes,No,Yes,50,Medium Risk
+2460,Marketing,California,Mid,57,13,45089,3,1,No,No,No,25,Low Risk
+2461,Customer Support,Remote,Mid,36,13,34581,5,1,Yes,No,No,50,Medium Risk
+2462,Sales,Virginia,Entry,37,12,41907,4,5,No,No,No,5,Low Risk
+2463,Customer Support,Virginia,Manager,36,10,35609,2,3,No,Yes,No,20,Low Risk
+2464,Customer Support,New York,Manager,22,5,81153,3,3,No,Yes,No,0,Low Risk
+2465,Finance,Remote,Mid,24,0,80539,4,4,No,No,No,20,Low Risk
+2466,Engineering,Remote,Senior,41,3,74143,3,3,No,No,No,5,Low Risk
+2467,Sales,Virginia,Senior,59,7,52936,5,4,Yes,No,No,30,Low Risk
+2468,HR,New York,Mid,54,0,80182,1,5,No,No,No,40,Medium Risk
+2469,HR,California,Entry,50,2,138261,4,3,No,Yes,No,15,Low Risk
+2470,Marketing,Texas,Mid,26,0,141259,2,5,No,Yes,Yes,35,Medium Risk
+2471,Marketing,Washington,Senior,37,8,129524,5,3,No,No,No,5,Low Risk
+2472,HR,California,Senior,59,1,125042,4,3,Yes,No,No,45,Medium Risk
+2473,Marketing,Virginia,Mid,45,8,43163,2,5,Yes,No,No,50,Medium Risk
+2474,Engineering,Washington,Manager,25,12,156686,4,1,Yes,No,Yes,50,Medium Risk
+2475,Customer Support,Texas,Entry,25,3,89758,5,1,No,Yes,No,20,Low Risk
+2476,Marketing,Texas,Mid,40,1,76057,4,1,No,Yes,No,35,Medium Risk
+2477,Finance,New York,Senior,36,3,42537,3,1,No,No,Yes,25,Low Risk
+2478,Marketing,Washington,Senior,57,11,52419,5,3,No,No,Yes,5,Low Risk
+2479,Sales,New York,Mid,29,10,72578,4,2,No,No,No,25,Low Risk
+2480,Engineering,California,Entry,25,10,104991,1,5,No,Yes,No,20,Low Risk
+2481,Sales,Remote,Entry,22,9,151211,4,2,Yes,Yes,No,45,Medium Risk
+2482,Sales,Remote,Mid,29,5,152762,3,2,Yes,No,No,50,Medium Risk
+2483,Finance,Remote,Mid,56,14,104599,2,4,No,Yes,No,20,Low Risk
+2484,Engineering,Washington,Entry,42,10,30834,2,1,No,No,Yes,45,Medium Risk
+2485,Engineering,Remote,Senior,42,6,62214,2,3,No,No,No,25,Low Risk
+2486,Engineering,California,Mid,42,2,122934,1,1,Yes,No,Yes,85,High Risk
+2487,Engineering,New York,Senior,54,2,153798,3,1,No,Yes,No,35,Medium Risk
+2488,Engineering,Washington,Senior,49,11,130028,5,2,Yes,No,Yes,50,Medium Risk
+2489,Finance,New York,Entry,58,9,151286,2,4,Yes,Yes,No,45,Medium Risk
+2490,Marketing,Washington,Entry,53,11,32413,3,1,No,Yes,Yes,20,Low Risk
+2491,Sales,New York,Senior,38,7,39505,4,5,Yes,Yes,Yes,25,Low Risk
+2492,Engineering,Texas,Mid,27,4,150681,1,5,Yes,Yes,No,45,Medium Risk
+2493,Marketing,New York,Senior,21,3,132802,3,1,Yes,No,No,50,Medium Risk
+2494,Marketing,Remote,Senior,53,6,32105,3,2,Yes,Yes,Yes,45,Medium Risk
+2495,Sales,Texas,Senior,21,6,98104,5,2,No,Yes,No,20,Low Risk
+2496,Finance,New York,Manager,44,12,158303,3,3,No,No,No,5,Low Risk
+2497,HR,Washington,Mid,24,8,137634,5,4,Yes,Yes,No,25,Low Risk
+2498,HR,Washington,Mid,24,8,144897,1,2,Yes,No,Yes,70,High Risk
+2499,Marketing,Washington,Mid,38,4,88408,1,3,Yes,Yes,No,45,Medium Risk
+2500,Customer Support,Virginia,Entry,47,12,67679,4,5,No,Yes,No,0,Low Risk
